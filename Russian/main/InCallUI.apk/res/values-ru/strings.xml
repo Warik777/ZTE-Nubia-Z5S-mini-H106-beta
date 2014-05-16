@@ -189,10 +189,10 @@
     <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)
 Следующий период начнется в течение %4$d дн. (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
-    <string name="throttle_data_rate_reduced_subtext">"Максимум от %1$s был превышен.
-Скорость передачи данных была уменьшена до %2$d кбит/сек."</string>
-    <string name="throttle_time_frame_subtext">"%1$d % цикла прошло.
-Следующий период начинается в %2$d дней (%3$s)."</string>
+    <string name="throttle_data_rate_reduced_subtext">Максимум от %1$s был превышен.
+Скорость передачи данных была уменьшена до %2$d кбит/сек.</string>
+    <string name="throttle_time_frame_subtext">%1$d٪ цикла прошло.
+Следующий период начинается в %2$d дней (%3$s).</string>
     <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
     <string name="cell_broadcast_sms">Широковещательные SMS-службы</string>

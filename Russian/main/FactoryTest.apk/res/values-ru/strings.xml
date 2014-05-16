@@ -113,7 +113,6 @@
     <string name="quicktest_touch_g">g</string>
     <string name="quicktest_auto_tp_test_success">Auto TP test success!</string>
     <string name="quicktest_auto_tp_test_fail">Не поддерживается автоматический тест сенсорного экрана, пожалуйста, сделайте это самостоятельно.</string>
-    <string name="quicktest_auto_tp_test_fail">Auto TP test fail! Please do it by yourself.</string>
     <string name="quicktest_breathlight">Дыхание света</string>
     <string name="quicktest_loopback">Loopback</string>
     <string name="quicktest_compass">Компас</string>

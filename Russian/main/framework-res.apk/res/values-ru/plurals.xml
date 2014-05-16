@@ -91,7 +91,6 @@
         <item quantity="other">Найдены доступные сети Wi-Fi</item>
         <item quantity="one">Найдена доступная сеть Wi-Fi</item>
     </plurals>
-    </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d из %2$d</item>
         <item quantity="one">1 совпадение</item>
