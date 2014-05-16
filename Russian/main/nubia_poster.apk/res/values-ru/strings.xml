@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nubia плакат</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отменить</string>
+    <string name="save">Сохранить</string>
+    <string name="share">Поделиться</string>
+    <string name="back">Назад</string>
+    <string name="wait_a_moment">Пожалуйста, подождите минуту</string>
+    <string name="wait_a_moment2">Изготовление фото...</string>
+    <string name="wait_a_moment3">Сохранение фото...</string>
+    <string name="open_picture">Открытие фото...</string>
+    <string name="reset">Сброс</string>
+    <string name="contentDescription">Описание фото</string>
+    <string name="confirm_exit">Выход</string>
+    <string name="confirm_discard_picture">Вы действительно хотите удалить фото?</string>
+    <string name="save_tips_ex">Изображение было сохранено в тот же альбом.</string>
+    <string name="stroage_full_tip">Не удалось сохранить изображение, память может быть заполнена.</string>
+    <string name="poster_edit_words">Редактировать</string>
+    <string name="poster_layout_vertical">Вертикально</string>
+    <string name="poster_layout_horizontal">Горизонтально</string>
+    <string name="bold">Полужирный</string>
+    <string name="shadow">Тень</string>
+    <string name="composing">Сочинение</string>
+    <string name="number_of_words_remainder">" %1$d/%2$d "</string>
+    <string name="file_error">Ошибка файла</string>
+    <string name="load_image_error">Ошибка файла, не могу открыть.</string>
+</resources>
