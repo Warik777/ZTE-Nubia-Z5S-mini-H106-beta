@@ -1013,27 +1013,35 @@
 
     if-eq p1, v0, :cond_1
 
-    const/16 v0, 0x61
+    const/16 v0, 0x430
 
     if-eq p1, v0, :cond_1
 
-    const/16 v0, 0x62
+    const/16 v0, 0x431
 
     if-eq p1, v0, :cond_1
 
-    const/16 v0, 0x63
+    const/16 v0, 0x432
+	
+    if-eq p1, v0, :cond_1
+	
+    const/16 v0, 0x433
 
     if-eq p1, v0, :cond_1
 
-    const/16 v0, 0x41
+    const/16 v0, 0x410
 
     if-eq p1, v0, :cond_1
 
-    const/16 v0, 0x42
+    const/16 v0, 0x411
 
     if-eq p1, v0, :cond_1
+	
+    const/16 v0, 0x412
+	
+    if-eq p1, v0, :cond_1
 
-    const/16 v0, 0x43
+    const/16 v0, 0x413
 
     if-ne p1, v0, :cond_2
 
@@ -1049,27 +1057,35 @@
 
     if-eq p1, v0, :cond_3
 
-    const/16 v0, 0x64
+    const/16 v0, 0x434
 
     if-eq p1, v0, :cond_3
 
-    const/16 v0, 0x65
+    const/16 v0, 0x435
 
     if-eq p1, v0, :cond_3
 
-    const/16 v0, 0x66
+    const/16 v0, 0x436
+	
+    if-eq p1, v0, :cond_3
+
+    const/16 v0, 0x437
 
     if-eq p1, v0, :cond_3
 
-    const/16 v0, 0x44
+    const/16 v0, 0x414
 
     if-eq p1, v0, :cond_3
 
-    const/16 v0, 0x45
+    const/16 v0, 0x415
 
     if-eq p1, v0, :cond_3
 
-    const/16 v0, 0x46
+    const/16 v0, 0x416
+	
+    if-eq p1, v0, :cond_3
+
+    const/16 v0, 0x417
 
     if-ne p1, v0, :cond_4
 
@@ -1085,27 +1101,35 @@
 
     if-eq p1, v0, :cond_5
 
-    const/16 v0, 0x67
+    const/16 v0, 0x438
 
     if-eq p1, v0, :cond_5
 
-    const/16 v0, 0x68
+    const/16 v0, 0x439
 
     if-eq p1, v0, :cond_5
 
-    const/16 v0, 0x69
+    const/16 v0, 0x43a
+	
+    if-eq p1, v0, :cond_5
+
+    const/16 v0, 0x43b
 
     if-eq p1, v0, :cond_5
 
-    const/16 v0, 0x47
+    const/16 v0, 0x418
 
     if-eq p1, v0, :cond_5
 
-    const/16 v0, 0x48
+    const/16 v0, 0x419
 
     if-eq p1, v0, :cond_5
 
-    const/16 v0, 0x49
+    const/16 v0, 0x41a
+	
+    if-eq p1, v0, :cond_5
+
+    const/16 v0, 0x41b
 
     if-ne p1, v0, :cond_6
 
@@ -1121,27 +1145,35 @@
 
     if-eq p1, v0, :cond_7
 
-    const/16 v0, 0x6a
+    const/16 v0, 0x43c
 
     if-eq p1, v0, :cond_7
 
-    const/16 v0, 0x6b
+    const/16 v0, 0x43d
 
     if-eq p1, v0, :cond_7
 
-    const/16 v0, 0x6c
+    const/16 v0, 0x43e
+	
+    if-eq p1, v0, :cond_7
+
+    const/16 v0, 0x43f
 
     if-eq p1, v0, :cond_7
 
-    const/16 v0, 0x4a
+    const/16 v0, 0x41c
 
     if-eq p1, v0, :cond_7
 
-    const/16 v0, 0x4b
+    const/16 v0, 0x41d
 
     if-eq p1, v0, :cond_7
 
-    const/16 v0, 0x4c
+    const/16 v0, 0x41e
+	
+    if-eq p1, v0, :cond_7
+
+    const/16 v0, 0x41f
 
     if-ne p1, v0, :cond_8
 
@@ -1157,27 +1189,35 @@
 
     if-eq p1, v0, :cond_9
 
-    const/16 v0, 0x6d
+    const/16 v0, 0x440
 
     if-eq p1, v0, :cond_9
 
-    const/16 v0, 0x6e
+    const/16 v0, 0x441
 
     if-eq p1, v0, :cond_9
 
-    const/16 v0, 0x6f
+    const/16 v0, 0x442
+	
+    if-eq p1, v0, :cond_9
+
+    const/16 v0, 0x443
 
     if-eq p1, v0, :cond_9
 
-    const/16 v0, 0x4d
+    const/16 v0, 0x420
 
     if-eq p1, v0, :cond_9
 
-    const/16 v0, 0x4e
+    const/16 v0, 0x421
 
     if-eq p1, v0, :cond_9
 
-    const/16 v0, 0x4f
+    const/16 v0, 0x422
+	
+    if-eq p1, v0, :cond_9
+
+    const/16 v0, 0x423
 
     if-ne p1, v0, :cond_a
 
@@ -1193,35 +1233,35 @@
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x70
+    const/16 v0, 0x444
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x71
+    const/16 v0, 0x445
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x72
+    const/16 v0, 0x446
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x73
+    const/16 v0, 0x447
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x50
+    const/16 v0, 0x424
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x51
+    const/16 v0, 0x425
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x52
+    const/16 v0, 0x426
 
     if-eq p1, v0, :cond_b
 
-    const/16 v0, 0x53
+    const/16 v0, 0x427
 
     if-ne p1, v0, :cond_c
 
@@ -1237,27 +1277,35 @@
 
     if-eq p1, v0, :cond_d
 
-    const/16 v0, 0x74
+    const/16 v0, 0x448
 
     if-eq p1, v0, :cond_d
 
-    const/16 v0, 0x75
+    const/16 v0, 0x449
 
     if-eq p1, v0, :cond_d
 
-    const/16 v0, 0x76
+    const/16 v0, 0x44a
+	
+    if-eq p1, v0, :cond_d
+
+    const/16 v0, 0x44b
 
     if-eq p1, v0, :cond_d
 
-    const/16 v0, 0x54
+    const/16 v0, 0x428
 
     if-eq p1, v0, :cond_d
 
-    const/16 v0, 0x55
+    const/16 v0, 0x429
 
     if-eq p1, v0, :cond_d
 
-    const/16 v0, 0x56
+    const/16 v0, 0x42a
+	
+    if-eq p1, v0, :cond_d
+
+    const/16 v0, 0x42b
 
     if-ne p1, v0, :cond_e
 
@@ -1273,35 +1321,35 @@
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x77
+    const/16 v0, 0x44c
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x78
+    const/16 v0, 0x44d
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x79
+    const/16 v0, 0x44e
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x7a
+    const/16 v0, 0x44f
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x57
+    const/16 v0, 0x42c
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x58
+    const/16 v0, 0x42d
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x59
+    const/16 v0, 0x42e
 
     if-eq p1, v0, :cond_f
 
-    const/16 v0, 0x5a
+    const/16 v0, 0x42f
 
     if-ne p1, v0, :cond_10
 
