@@ -1025,7 +1025,7 @@
 
     .line 6221
     :cond_0
-    const/16 v0, 0x32 //2
+    const/16 v0, 0x32
 
     if-eq p1, v0, :cond_1
 
