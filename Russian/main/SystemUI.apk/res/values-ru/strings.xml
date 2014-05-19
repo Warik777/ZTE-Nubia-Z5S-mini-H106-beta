@@ -209,7 +209,7 @@
     <string name="ringer">Звонок</string>
     <string name="vibrate">Вибрация</string>
     <string name="mute">Тихо</string>
-    <string name="airplane">Режим полета</string>
+    <string name="airplane">В самолете</string>
     <string name="saving">Питание</string>
     <string name="pocket">Карман</string>
     <string name="meeting">Совещание</string>
@@ -222,7 +222,7 @@
     <string name="sort">Отсортировать</string>
     <string name="settings">Настройки</string>
     <string name="lockscreen">Блокировка экрана</string>
-    <string name="screenprojector">Проекционный экран</string>
+    <string name="screenprojector">Проек.экр.</string>
     <string name="splitscreen">Разделенный экран</string>
     <string name="nothing" />
     <string name="arrange_title_name">Упорядочить переключатели</string>
@@ -280,7 +280,7 @@ PTP: Позволяет определить телефон как фотока�
     <string name="screen_saver_force_quite">Выход принудительно: нажмите Громкость минус и кнопку возврата вместе</string>
     <string name="time_am">AM</string>
     <string name="time_pm">PM</string>
-    <string name="nubia_rencent_left">Лево</string>
+    <string name="nubia_rencent_left"></string>
     <string name="nubia_rencent_background_tasks">Фоновые задачи:</string>
     <string name="nubia_rencent_task_unit"> </string>
     <string name="nubia_recent_guide_up_drag">Сдвиньте вверх, чтобы закрыть</string>

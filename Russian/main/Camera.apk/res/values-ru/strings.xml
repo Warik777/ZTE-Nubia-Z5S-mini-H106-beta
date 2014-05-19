@@ -1020,7 +1020,7 @@
     <string name="light_draw_info">Исправлена камера при съемке в темноте, затем нарисуйте нужный шаблон в воздухе с фонариком.</string>
     <string name="star_track_info">Используйте штатив при съемке суперкартинки, чтобы сделать окончательное изображение ясно.</string>
     <string name="stroage_eject_tip">Место хранения было изменено на SD карту</string>
-    <string name="stroage_path_detail">Изменить место хранения на SD карту? сделанные снимки будут сохранениы на память телефона.</string>
+    <string name="stroage_path_detail">Изменить место хранения на SD карту? Снимки будут сохранены в память телефона.</string>
     <string name="pref_camera_fullscreen_picturesize_title">Полный экран</string>
     <string name="pref_camera_fullscreen_picturesize_default">on</string>
     <string name="pref_camera_interval_pro_title">Интервалометр</string>
