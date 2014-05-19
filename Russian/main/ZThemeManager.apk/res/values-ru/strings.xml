@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Менеджер тем</string>
+    <string name="app_name">Темы</string>
     <string name="menu_settings">Настройки</string>
     <string name="hello_world">Приветствую!</string>
-    <string name="tab_local">Local</string>
-    <string name="tab_online">Online</string>
+    <string name="tab_local">Локальные</string>
+    <string name="tab_online">Онлайн</string>
     <string name="tab_mashup">DIY</string>
     <string name="menu_action_bar_search">Поиск</string>
     <string name="menu_import_theme">Имортировать темы в zip архиве с SD-карты</string>
@@ -29,7 +29,7 @@
     <string name="component_item_title_launcher">Launcher</string>
     <string name="component_item_title_lockscreen">Экран блокировки</string>
     <string name="component_item_title_lockstyle">Стиль блокировки</string>
-    <string name="component_item_title_mms">Ммс</string>
+    <string name="component_item_title_mms">ММС</string>
     <string name="component_item_title_settings">Настройки</string>
     <string name="component_item_title_thememanager">Theme Manager</string>
     <string name="component_item_title_ringtone">Рингтон</string>
