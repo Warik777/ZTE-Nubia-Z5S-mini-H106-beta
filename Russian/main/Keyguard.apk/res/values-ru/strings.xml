@@ -151,8 +151,8 @@
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
     <string name="unlock">разблокировать</string>
     <string name="message_separator">—</string>
-    <string name="charging">Зарядка, %d%%</string>
-    <string name="charged">Заряженный</string>
+    <string name="charging">Идет зарядка (%d%%)</string>
+    <string name="charged">Батарея заряжена</string>
     <string name="low_battery">Подключите зарядное устройство</string>
     <string name="card_exit">выход</string>
     <string name="card_cancel">отмена</string>
@@ -164,8 +164,8 @@
     <string name="unlock_to_cam">Разблокировать камеру</string>
     <string name="unlock_normal">Разблокировать</string>
     <string name="messages_slide_up_tips">Слайд просмотра сообщений</string>
-    <string name="lockscreen_battery_charged">Заряженный</string>
-    <string name="lockscreen_battery_charging">Зарядка</string>
+    <string name="lockscreen_battery_charged">Батарея заряжена</string>
+    <string name="lockscreen_battery_charging">Идет зарядка</string>
     <string name="lockscreen_battery_low">Низкий заряд батареи</string>
     <string name="lockscreen_battery_overheatorclod">Temperature anomaly</string>
     <string name="lockscreen_battery_precent">%d%%</string>
