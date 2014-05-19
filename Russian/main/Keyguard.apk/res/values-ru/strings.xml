@@ -142,7 +142,7 @@
     <string name="kg_reordering_delete_drop_target_text">Удалить</string>
     <string name="kg_password_wrong_pin_code_pukked">Неверный PIN код SIM карты, вы должны обратитmcz к своему оператору для разблокировки устройства.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM недоступна для использования. Обратитесь к своему оператору.</string>
-    <string name="kg_password_pin_failed">SIM PIN ошибка операции!</string>
+    <string name="kg_password_pin_failed">Операцията с ПИН кода за SIM картата не бе успешна!</string>
     <string name="kg_password_puk_failed">SIM PUK ошибка операции!</string>
     <string name="kg_pin_accepted">Код принят!</string>
     <string name="keyguard_transport_prev_description">Кнопка предыдущий трек</string>
