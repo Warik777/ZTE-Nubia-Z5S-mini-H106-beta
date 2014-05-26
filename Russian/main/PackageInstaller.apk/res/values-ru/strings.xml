@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Программа установки пакета</string>
     <string name="next">Далее</string>
-    <string name="install">Установить</string>
+    <string name="install">Устанавливать</string>
     <string name="done">Готово</string>
     <string name="security_settings_desc">Разрешать приложению:</string>
     <string name="cancel">Отмена</string>
@@ -13,8 +13,8 @@
     <string name="install_confirm_question_no_perms">Это приложение не требует специальных разрешений. Установить его?</string>
     <string name="install_confirm_question_update">После обновления это приложение получит доступ к указанным ниже данным. При этом текущая информация сохранится. Обновить?</string>
     <string name="install_confirm_question_update_system">После обновления это приложение получит доступ к указанным ниже данным. При этом текущая информация сохранится. Обновить?</string>
-    <string name="install_confirm_question_update_no_perms">Хотите установить обновление для этого приложения? Ваши текущие данные сохранятся. Не требуется специальное разрешение.</string>
-    <string name="install_confirm_question_update_system_no_perms">Хотите установить обновление для этого интегрированного приложения? Ваши текущие данные сохранятся. Не требуется специальное разрешение.</string>
+    <string name="install_confirm_question_update_no_perms">Установить обновление этого приложения? На текущих данных это никак не отразится. Специальных прав доступа не требуется.</string>
+    <string name="install_confirm_question_update_system_no_perms">Установить обновление этого встроенного приложения? На текущих данных это никак не отразится. Специальных прав доступа не требуется.</string>
     <string name="install_failed">Приложение не установлено.</string>
     <string name="install_failed_invalid_apk">Похоже, пакет поврежден.</string>
     <string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись.</string>
@@ -50,7 +50,7 @@
     <string name="uninstall_update_title">Удаление обновления</string>
     <string name="uninstall_activity_text">%1$s – часть следующего приложения:</string>
     <string name="uninstall_application_text">Удалить приложение?</string>
-    <string name="uninstall_application_text_all_users">Вы хотите удалить это приложение для <b>всех</b> пользователей? Приложение и все связанные с ним данные удаляются для <b>всех</b> пользователей устройства.</string>
+<string name="uninstall_application_text_all_users">Удалить это приложение для <b>всех</b> пользователей? После этого <b>ни один</b> пользователь устройства не будет иметь доступа к приложению и связанным с ним данным.</string>
     <string name="uninstall_update_text">Установить исходную версию приложения?</string>
     <string name="uninstalling">Удаление...</string>
     <string name="uninstall_done">Удаление завершено.</string>
