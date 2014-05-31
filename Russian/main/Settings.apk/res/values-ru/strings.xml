@@ -2273,7 +2273,7 @@ It не стирать :
     <string name="security_and_location_settings_title">Безопасность и расположение</string>
     <string name="location_category_title">Местоположение</string>
     <string name="location_preference_title">Службы определения местоположения</string>
-    <string name="install_settings">Менеджер платежей</string>
+    <string name="install_settings">Менеджер установок</string>
     <string name="device_admin_and_credentials_title">Разрешения и полномочия</string>
     <string name="reduce_dynamic_effect_title">Уменьшите динамический эффект</string>
     <string name="reduce_dynamic_effect_summary">Уменьшите динамический эффект UI, в том числе эффект параллакса иконок и уведомлений</string>
