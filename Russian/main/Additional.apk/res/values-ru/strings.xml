@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Дополнительные</string>
+    <string name="app_name">Дополнительные</string> 
     <string name="inter_version_title">Внутренняя версия</string>
     <string name="inter_baseband_version">Версия основной полосы:</string>
     <string name="inter_internal_version">Версия:</string>
