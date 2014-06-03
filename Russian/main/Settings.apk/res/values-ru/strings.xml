@@ -325,7 +325,7 @@
     <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
     <string name="unlock_set_unlock_off_summary" />
-    <string name="unlock_set_unlock_none_title">Защита отключена</string>
+    <string name="unlock_set_unlock_none_title">Прокрутка</string>
     <string name="unlock_set_unlock_none_summary">Защита отключена</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
@@ -395,7 +395,7 @@
     <string name="bluetooth_pairing_accept">Сопряжение</string>
     <string name="bluetooth_pairing_decline">Отмена</string>
     <string name="bluetooth_error_title" />
-    <string name="bluetooth_pairing_error_message">Не удалось подключиться к "%1$s".</string>
+    <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к "%1$s", так как введен неверный PIN код или пароль.</string>
     <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с "%1$s".</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение.</string>
@@ -1110,16 +1110,16 @@
     <string name="sort_order_size">Упорядочить по размеру</string>
     <string name="show_running_services">Показать активные службы</string>
     <string name="show_background_processes">Показать процессы в кэше</string>
-    <string name="reset_app_preferences">Сброс настроек приложений</string>
+    <string name="reset_app_preferences">Сброс настроек</string>
     <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
     <string name="reset_app_preferences_desc">"Это сбросит все настройки для:
+	
+ "<li>приложений</li>"
+ "<li>уведомлений приложений</li>"
+ "<li>настроек по умолчанию</li>"
+ "<li>фоновых данных</li>"
 
- "&lt;li>приложений&lt;/li>"
- "&lt;li>уведомлений приложений&lt;/li>"
- "&lt;li>настроек по умолчанию&lt;/li>"
- "&lt;li>фоновых данных&lt;/li>"
-
- Вы не потеряете никакие данные приложений."</string>
+ Данные приложений потеряны не будут!"</string>
     <string name="reset_app_preferences_button">Сброс приложений</string>
     <string name="manage_space_text">Управление местом</string>
     <string name="filter">Фильтр</string>
@@ -1223,7 +1223,7 @@
     <string name="keyboard_settings_category">Клавиатура и способы ввода</string>
     <string name="phone_language">Язык</string>
     <string name="phone_language_summary" />
-    <string name="auto_replace">Автокоррекция</string>
+    <string name="auto_replace">Автозамена</string>
     <string name="auto_replace_summary">Исправлять опечатки</string>
     <string name="auto_caps">Заглавные автоматически</string>
     <string name="auto_caps_summary">Автоподстановка заглавных букв в начале предложений</string>
@@ -1459,7 +1459,7 @@
     <string name="battery_stats_gps_on_label">GPS включен</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Режим бодрствования</string>
-    <string name="battery_stats_phone_signal_label">Уровень сигнала моб. сети</string>
+    <string name="battery_stats_phone_signal_label">Уровень сигнала мобильной сети</string>
     <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Время с включения устройства</string>
     <string name="wifi_on_time">Время работы Wi-Fi</string>
@@ -2053,7 +2053,7 @@
     <string name="help_url_security" />
     <string name="help_url_nfc_payment" />
     <string name="help_url_remote_display" />
-    <string name="user_account_title">Аккаунт для содержания</string>
+    <string name="user_account_title">Аккаунт</string>
     <string name="user_picture_title">Фото ID</string>
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>
     <string name="user_restrictions_title">Ограничения для приложения и контента</string>
@@ -2246,11 +2246,11 @@ It не стирать :
     <string name="volume_bluetooth_sco_mute">Отключение звука bluetooth</string>
     <string name="notification_panel_title">Панель уведомлений</string>
     <string name="category_screen_title">Экран</string>
-    <string name="lockscreen_title">Фото экрана блокировки</string>
+    <string name="lockscreen_title">Фото на экране блокировки</string>
     <string name="led_app_msg_title">Уведомление смс</string>
     <string name="led_app_msg_summary">Вкл</string>
     <string name="led_brightness">Автоматическая яркость</string>
-    <string name="nubia_font_size_example">"нубия"</string>
+    <string name="nubia_font_size_example">"Нубия"</string>
     <string name="font_size_small">Маленький</string>
     <string name="font_size_big">Большой</string>
     <string name="saturation_info">Насыщенность</string>
@@ -2259,7 +2259,7 @@ It не стирать :
     <string name="natural_tone">Естественный</string>
     <string name="warm_tone">Теплые тона</string>
     <string name="diaplay_preferences_summary">%1$s и %2$s</string>
-    <string name="display_preferences_title">Меню настройки экрана</string>
+    <string name="display_preferences_title">Улучшение изображения</string>
     <string name="sound_call_ringtone_and_notif_category_title">Мелодия и уведомления</string>
     <string name="message_sound_title">Звук сообщений</string>
     <string name="message_sound_dialog_title">Звук сообщений</string>
@@ -2295,19 +2295,26 @@ It не стирать :
     <string name="quick_communication_info1">Когда есть пропущеный вызов, &lt;font_size>проведите&lt;/font>size&gt; вашим пальцем по иконке вызова&lt;br/>для &lt;font_size> просмотра &lt;/font>size&gt; и быстрого набора</string>
     <string name="quick_communication_info2">&lt;font_size>Проведите&lt;/font>size&gt; через список вызовов, контактов, сообщений &lt;br/>для быстрого набора и отправки сообщений</string>
     <string name="split_screen_settings">Разделение экрана</string>
-    <string name="bottom_key_definition_title">Пользовательская нижняя кнопка</string>
-    <string name="bottom_key_definition_summary">Поменять местами кнопки Меню и Возврат</string>
-    <string name="layout_one">Расположение один</string>
-    <string name="layout_two">Расположение два</string>
+    <string name="split_screen_info">Split up the screen into two parts to see two applications at the same time</string>
+    <string name="split_screen_manual">Manually enable screen division</string>
+    <string name="split_screen_slide_up_titile">Split-screen presentation starts getture</string>
+    <string name="split_screen_slide_up_summary">Swipe up from the bottom of screen to enable screen division</string>
+    <string name="split_screen_slide_up_info">When the split-screen mode is turn on, you can &lt;font_size>slide &lt;/font_size>from the bottom of the screen to &lt;font_size>activate the split screen &lt;/font_size></string>
+    <string name="split_screen_mode_title">Split-screen mode</string>
+    <string name="split_screen_mode_summary">Open the split-screen mode, the screen is divided into two parts immediately; while you can use swipe gesture back to split screen.</string>
+    <string name="bottom_key_definition_title">Настройки нижних клавиш</string>
+    <string name="bottom_key_definition_summary">Поменять местами клавиши Меню и Возврат</string>
+    <string name="layout_one">Вариант один</string>
+    <string name="layout_two">Вариант два</string>
     <string name="bottom_key_menu">Меню</string>
-    <string name="bottom_key_home">Главная</string>
+    <string name="bottom_key_home">Домой</string>
     <string name="bottom_key_back">Назад</string>
-    <string name="more_settings">Остальные</string>
+    <string name="more_settings">Дополнительно</string>
     <string name="hardware_version">Hardware version</string>
-    <string name="nubia_version">nubia UI</string>
+    <string name="nubia_version">Версия интерфейса Nubia</string>
     <string name="power_show_as_percentage">Процент батареи</string>
     <string name="battery_alert">Предупреждение батареи</string>
-    <string name="battery_alert_summary">напомнить зарядить на ночь при уровне ниже чем на 40%</string>
+    <string name="battery_alert_summary">"Напомнить зарядить на ночь при уровне ниже чем на 40%"</string>
     <string name="agps_settings_title">Настройки A-GPS</string>
     <string name="prefer_xtra_title">Prefer XTRA</string>
     <string name="prefer_xtra_summaryOn">сократить время позиционирования, вызвать небольшое использование данных</string>
@@ -2335,7 +2342,7 @@ It не стирать :
     <string name="bt_rename_empty">Имя не может быть пустым</string>
     <string name="bt_rename_exist">Такок имя уже есть!</string>
     <string name="system_storage">Внутренняя память</string>
-    <string name="runtime_space">Runtime space(stroage for system runtime)</string>
+    <string name="runtime_space">Система</string>
     <string name="reset_low_battery">Сброс при низком уровне батареи</string>
     <string name="reset_low_battery_message">Уровень заряда батареи  должен быть выше 30 процентов</string>
     <string name="vpn_list_title">Список VPN</string>
@@ -2394,13 +2401,30 @@ It не стирать :
     <string name="wifi_context_menu_change_password">Изменить пароль</string>
     <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
     <string name="wifi_choose_wlan">Пожалуйста, выберите сеть</string>
+    <string name="absolute_brightness">Яркость</string>
+    <string name="fine_tune_brightness">Автоподстройка</string>
+    <string name="smart_memory_title">Интеллектуальный сенсор</string>
+    <string name="smart_memory_summary">Фиксирует значения текущих условий</string>
+    <string name="reset_automatic_setting">Сброс настроек яркости</string>
+    <string name="reset_auto_brightness_title">Сброс настроек</string>
+    <string name="reset_auto_brightness_message">Автоматические параметры регулировки яркость будут восстановлены к настройкам по умолчанию! Продолжить?</string>
+    <string name="max_brightness_warning_title">Предупреждение</string>
+    <string name="max_brightness_warning_message">Максимальная яркость сократит срок службы батареи и повлияет на рассеивание тепла.</string>
+    <string name="max_brightness_warning_not_remind">Не напоминать</string>
+    <string name="brightness_zero">По умолчанию</string>
+    <string name="ringtone_default">Мелодия по умолчанию</string>
+    <string name="notification_sound_default">Уведомление по умолчанию</string>
+    <string name="alarm_sound_default">Будильник по умолчанию</string>
+    <string name="china_unicom">China unicom</string>
+    <string name="china_mobile">China mobile</string>
+    <string name="china_telecom">China telecom</string>
     <string name="font_size_example">"
 Это пример теста на размер шрифта"</string>
     <string name="font_size_cancel">Отмена</string>
     <string name="font_size_ok">OK</string>
     <string name="summary_font_size_v5">Установки затронут телефон, сообщения, контакты и настройки</string>
     <string name="font_size_note">Изменится размер шрифта в телефоне, сообщениях, контактах и настройках</string>
-    <string name="led_light_title">Подсветка действий</string>
+    <string name="led_light_title">Подсветка клавиш</string>
     <string name="led_charge_title">Зарядка</string>
     <string name="led_charge_summary">Подсветка при зарядке</string>
     <string name="led_battery_low_title">Низкий ур.бат.</string>
@@ -2422,18 +2446,18 @@ It не стирать :
     <string name="image_enhance_improve">Свечение</string>
     <string name="summary_image_enhance_on">Вкл</string>
     <string name="summary_image_enhance_off">Выкл</string>
-    <string name="screen_timeout_v5">Время подсветки экрана</string>
+    <string name="screen_timeout_v5">Спящий режим</string>
     <string name="screen_timeout_15_sec">15 сек</string>
     <string name="screen_timeout_30_sec">30 сек</string>
     <string name="screen_timeout_1_min">1 мин</string>
     <string name="screen_timeout_2_min">2 мин</string>
     <string name="screen_timeout_5_min">5 мин</string>
     <string name="screen_timeout_10_min">10 мин</string>
-    <string name="screen_timeout_30_min">никогда</string>
+    <string name="screen_timeout_30_min">Никогда</string>
     <string name="festival_wallpaper_title">Праздничные обои</string>
     <string name="festival_wallpaper_summary">Установить праздничные обои</string>
     <string name="font_size_min">A-</string>
-    <string name="font_size_normal">2</string>
+    <string name="font_size_normal">Нормальный</string>
     <string name="font_size_max">A+</string>
     <string name="ringtone_fade_in_title">Нарастание громкости</string>
     <string name="ringtone_fade_in_summary">При входящем звонке и будильнике</string>
@@ -2607,10 +2631,10 @@ It не стирать :
     <string name="dolby_off">ВЫКЛ</string>
     <string name="sensory_and_gesture">Датчик движения и жестов</string>
     <string name="touch_gesture_title">Датчик прикосновений</string>
-    <string name="touch_gesture_summary">Выполните быстрые операции на экране с помощью жестов</string>
+    <string name="touch_gesture_summary">Выполните быстрые операции на экране с помощью прикосновений</string>
     <string name="volley_gesture_title">Touchless gestures</string>
     <string name="volley_gesture_summary">Размахивать руками над датчиком для управления устройством</string>
-    <string name="smart_sensory_title">Умные датчики</string>
+    <string name="smart_sensory_title">Датчик жестов</string>
     <string name="smart_sensory_summary">Управление устройством с помощью жестов</string>
     <string name="double_click_title">Двойной клик для включения</string>
     <string name="double_click_summary">Двойной клик для включения экрана</string>
@@ -2620,7 +2644,7 @@ It не стирать :
     <string name="free_snapshot_summary">Очертите желаемую область для скриншота</string>
     <string name="three_finger_capture_title">Скриншот тремя пальцами</string>
     <string name="three_finger_capture_summary">Проведите тремя пальцами для получения скриншота</string>
-    <string name="three_finger_change_app_title">Приложение для запуска проведением тремя пальцами</string>
+    <string name="three_finger_change_app_title">Переключение тремя пальцами</string>
     <string name="three_finger_change_app_summary">Проведите тремя пальцами вправо или влево для переключения между открытыми приложениями</string>
     <string name="slide_screen_title">Проведите</string>
     <string name="slide_screen_summary">Махните рукой для прокрутки вверх интерфейса или переворота страницы</string>
@@ -2650,31 +2674,31 @@ It не стирать :
     <string name="touch_gesture_free_screenshot">Нажмите и удерживайте нажатой клавишу меню, чтобы войти режим свободного скриншота, нарисоуйте замкнутую кривую, чтобы сделать скриншот</string>
     <string name="touch_gesture_palm_lockscreen">Как экран загорается, накройте его рукой, чтобы выключить и заблокировать его</string>
     <string name="touch_gesture_tri_finger_screenshot">Проведите вверх на экране, используя свои три пальца для захвата скриншотов</string>
-    <string name="touch_gesture_tri_finger_switch_app">Swipe left or right on the screen using your three fingers to switch between the opened apps</string>
-    <string name="smart_gesture_sensor_dial">Put the phone up to your ear to dial a contact automatically</string>
-    <string name="smart_gesture_sensor_answer">Put the phone up to your ear to answer a call automatically</string>
-    <string name="smart_gesture_turen_over_silience_pause">Flip to mute the ringer or pause the media player</string>
-    <string name="smart_gesture_turen_shake_clear">Clear notifications, multi-task list and memory</string>
-    <string name="smart_gesture_shake_update">Shake to update when scanning Bluetooth or WLAN</string>
+    <string name="touch_gesture_tri_finger_switch_app">Проведите тремя пальцами влево или вправо по экрану для переключения между открытыми приложениями</string>
+    <string name="smart_gesture_sensor_dial">Поднесите телефон к уху, чтобы набрать контакт автоматически</string>
+    <string name="smart_gesture_sensor_answer">Поднесите телефон к уху, чтобы ответить на вызов автоматически</string>
+    <string name="smart_gesture_turen_over_silience_pause">Переверните для отключения звонка / паузы медиаплеера</string>
+    <string name="smart_gesture_turen_shake_clear">Очистка уведомлений, списка задач и памяти</string>
+    <string name="smart_gesture_shake_update">Обновлять список устройств во время поиска при встряхивании телефона</string>
     <string name="volley_back_forward_5">5S</string>
     <string name="volley_back_forward_10">10S</string>
     <string name="volley_back_forward_15">15S</string>
     <string name="volley_back_forward_20">20S</string>
     <string name="volley_back_forward_25">25S</string>
     <string name="volley_back_forward_30">30S</string>
-    <string name="touch_gesture_wake">Double click on the screen when the screen is turn off</string>
+    <string name="touch_gesture_wake">Дважды щелкните на экране, когда экран выключается</string>
     <string name="volley_intro">Touchless gestures sensor is on the top of the screen, it can be identified by gesture which is 10cm far away from nubia. when the pic appears on the status bar, you can use the touchless gesture.</string>
     <string name="volley_intro_1">Touchless gestures sensor is on the top of the screen, it can be identified by gesture which is 10cm far away from nubia.</string>
     <string name="volley_intro_2">when the pic appears on the status bar, you can use the touchless gesture.</string>
-    <string name="volley_intro_3">if you want to use it, it will make more power consumption.</string>
-    <string name="volley_gesture_backforward_title">Fast forward/Fast back</string>
+    <string name="volley_intro_3">если вы хотите использовать его, он будет иметь больше энергопотребление.</string>
+    <string name="volley_gesture_backforward_title">Ускоренная перемотка вперед / назад</string>
     <string name="volley_gesture_backforward_summary">Wave your hands to make the video forward or back</string>
     <string name="volley_gesture_backforward_intro">Wave your hands from left to right to make the fast forward and Wave your hands from right to left to make the back</string>
     <string name="volley_gesture_backforward_preference">Fast forward/Fast back Settings</string>
     <string name="volley_handfree_intro">Wave your hands to answer the current call on the top of the phone</string>
     <string name="volley_gesture_intro">On the top of phone,wave your hands to slide screen</string>
     <string name="volley_gesture_intro_land">On the top of phone,wave your hands to slide screen</string>
-    <string name="smart_gesture_music_intro">Shake left to play the previous song, shake right to play the next song</string>
+    <string name="smart_gesture_music_intro">Встряхните влево для предыдущей песни, встряхните вправо для следующей песни</string>
     <string name="volley_gesture_anticall_title_dialog">Motion sensing dial and motion sensing answer will be turn off</string>
     <string name="volley_gesture_anticall_title_message">Turn on answer calls will turn off motion sensing dial and motion sensing answer</string>
     <string name="smart_gesture_antivolley_title_dialog">Answer calls will be turn off</string>

@@ -98,8 +98,8 @@
     <string name="custom_workspace_cling_description_2" />
     <string name="menu_edit">Упорядочить значки</string>
     <string name="folder_out_of_space">Нет больше места в текущей папке.</string>
-    <string name="folder_accessories">Специальные возможности</string>
-    <string name="folder_recommends">Рекоммендации</string>
+    <string name="folder_accessories">Специальные</string>
+    <string name="folder_recommends">Рекомендованные</string>
     <string name="folder_tools">Инструменты</string>
     <string name="app_loading_title">Загрузка</string>
     <string name="app_loading_message">Загрузка приложений, пожалуйста подождите...</string>
