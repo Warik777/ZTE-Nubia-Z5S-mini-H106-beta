@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>"Что происходит?"</item>
+        <item>Thx</item>
+        <item>"Давайте встретимся."</item>
+        <item>Проверьте это!</item>
+        <item>Что делаешь?</item>
+        <item>Что вы думаете?</item>
+        <item>"Ты должен быть здесь."</item>
+        <item>"Let's hook-up"</item>
+        <item>На моем пути.</item>
+        <item>Да</item>
+        <item>Нет</item>
+        <item>Позже</item>
+        <item>"Ты-лучший!"</item>
+        <item>Где ты?</item>
+        <item>Позвони мне.</item>
+    </string-array>
+    <string-array name="pref_slideshow_open_mode_choices">
+        <item>Мобильные газеты</item>
+        <item>Слайд-шоу</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Счастливый</item>
+        <item>Грустно</item>
+        <item>Подмигиваю</item>
+        <item>Язык торчал</item>
+        <item>Удивлен</item>
+        <item>Поцелуи</item>
+        <item>Кричать</item>
+        <item>Холодно</item>
+        <item>Деньги рот</item>
+        <item>Ноги в рот</item>
+        <item>Смущение</item>
+        <item>Ангел</item>
+        <item>Не определились</item>
+        <item>Плач</item>
+        <item>Губы запечатаны</item>
+        <item>Смеется</item>
+        <item>В замешательстве</item>
+        <item>Сердце</item>
+        <item>Сумасшедший</item>
+        <item>Усмешка</item>
+        <item>Каменное лицо</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>без темы</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+    </string-array>
+    <string-array name="sub_list">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="alpha_table">
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="reflect_alpha_table">
+        <item>\#</item>
+        <item>А</item>
+        <item>●</item>
+        <item>Д</item>
+        <item>●</item>
+        <item>И</item>
+        <item>●</item>
+        <item>П</item>
+        <item>●</item>
+        <item>У</item>
+        <item>●</item>
+        <item>Ч</item>
+        <item>●</item>
+        <item>Я</item>
+        <item>A</item>
+        <item>●</item>
+        <item>E</item>
+        <item>●</item>
+        <item>I</item>
+        <item>●</item>
+        <item>M</item>
+        <item>●</item>
+        <item>R</item>
+        <item>●</item>
+        <item>V</item>
+        <item>●</item>
+        <item>Z</item>
+    </string-array>
+</resources>

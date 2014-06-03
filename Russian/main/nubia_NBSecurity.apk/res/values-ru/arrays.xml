@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_permissions">
+        <item>Разрешить</item>
+        <item>Игнорировать</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Authority</item>
+        <item>Application</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Accept Whitelist only</item>
+        <item>Block Blacklist only</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>Spam text messages</item>
+        <item>Harassing phone calls</item>
+        <item>Block Management</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Последние</item>
+        <item>Контакт</item>
+        <item>SMS</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Marking number management</item>
+        <item>Blacklist management</item>
+        <item>Block settings</item>
+    </string-array>
+    <string-array name="harass_marker_category">
+        <item>Harassing phone calls</item>
+        <item>Advertising &amp; Marketing</item>
+        <item>Real Estate Agents</item>
+        <item>Другие</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Конфиденциальность</item>
+        <item>Безопасность</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item></item>
+        <item></item>
+        <item>АБВГ</item>
+        <item>ДЕЖЗ</item>
+        <item>ИЙКЛ</item>
+        <item>МНОП</item>
+        <item>РСТУ</item>
+        <item>ФХЦЧ</item>
+        <item>ШЩЪЫ</item>
+        <item>ЬЭЮЯ</item>
+    </string-array>
+    <string-array name="photo_flow_play_time">
+        <item>1 минута</item>
+        <item>3 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>навсегда</item>
+    </string-array>
+</resources>
