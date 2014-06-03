@@ -6,11 +6,12 @@
     <string name="dm_ok">OK</string>
     <string name="dm_cancel">Отмена</string>
     <string name="dm_fumo_Message">Текущия версия</string>
-    <string name="dm_fumo_START">Обновление по воздуху</string>
+    <string name="dm_fumo_START">Обновление по сети</string>
     <string name="dm_fumo_SETUP">Установка пакета обновлений</string>
     <string name="dm_fumo_Summary">Обновление по сети</string>
     <string name="dm_never_SETUP">Никогда</string>
-    <string name="dm_check_update_title">Обновление он-лайн</string>
+    <string name="dm_manager_fail">Ошибка!</string>
+    <string name="dm_check_update_title">Обновление онлайн</string>
     <string name="dm_check_update">Проверка обновления</string>
     <string name="dm_update_plan">Обновление по расписанию</string>
     <string name="dm_network_error">Нет подключения к сети Интернет.</string>
@@ -22,7 +23,7 @@
     <string name="auto_update_switch_summary_off">Отключить автообновление</string>
     <string name="auto_update_frequency_texttitle">Автообновление</string>
     <string name="auto_update_frequency_textnight" />
-    <string name="auto_update_frequency_text">" "</string>
+    <string name="auto_update_frequency_text" />
     <string name="auto_update_frequency_text2">" в "</string>
     <string name="auto_update_frequency_everysunday">Каждое воскресение</string>
     <string name="auto_update_frequency_everymonday">Каждый понедельник</string>
@@ -118,11 +119,71 @@
     <string name="fota_net_save_tip">Загружаемый пакет займет некоторое место в памяти телефона.</string>
     <string name="download_interrupt_notetxt">Не удалось загрузить пакет обновлений</string>
     <string name="download_interrupt_notetitle">Загрузка прервана</string>
+    <string name="found_version">Доступна новая версия</string>
+    <string name="backup">Архивация</string>
+    <string name="backup_desc">Выполните резервное копирование данных перед обновлением телефона.</string>
+    <string name="start_update">Начало обновления</string>
+    <string name="download_tip">Загрузка...</string>
+    <string name="reboot_now">Перезагрузка</string>
+    <string name="reboot_desc">Пожалуйста, перезагрузите ваш телефон, чтобы завершить обновление</string>
+    <string name="update_content_tip">Содержание обновления</string>
+    <string name="default_description">Описание обновления по умолчанию</string>
+    <string name="data_flow_warning_dlg_msg">Вы используете мобильную передачу данных, загрузка обновления увеличит расход трафика.</string>
+    <string name="data_flow_not_warning">Не показывать в следующий раз</string>
+    <string name="data_flow_warning_dlg_wlan_btn">Настройки сети</string>
+    <string name="data_flow_warning_dlg_title">Предупреждение</string>
+    <string name="no_network_dlg_title">Ошибка сети</string>
+    <string name="no_network_dlg_msg">Сеть недоступна, проверьте настройки.</string>
+    <string name="lack_memory_dlg_title">Недостаточно места.</string>
+    <string name="lack_memory_dlg_msg">Недостаточно места! Обновление не завершено. Переместите или удалите часть приложений, что бы освободить место!</string>
+    <string name="cancel_download">Отмена загрузки</string>
+    <string name="cancel_download_msg">Остановить загрузку?</string>
+    <string name="low_battery_dlg_title">Низкий заряд</string>
+    <string name="low_battery_dlg_msg">Невозможно начать обновление при низком заряде батареи. Зарядите телефон.</string>
+    <string name="noti_pkg_found_title">Обновление ПО для Вашего телефона</string>
+    <string name="noti_pkg_found_msg">ПО Вашего телефона можно обновить</string>
+    <string name="noti_pkg_download_title">Загрузить обновление</string>
+    <string name="noti_pkg_download_text">Новая версия:</string>
+    <string name="noti_pkg_setup_title">Доступен пакет обновления</string>
+    <string name="noti_pkg_setup_msg">Нажмите для установки</string>
+    <string name="noti_pkg_download_interrupt_title">Загрузка прервана</string>
+    <string name="noti_pkg_download_interrupt_msg">Сбой загрузки, нажмите для продолжения</string>
+    <string name="system_tip">Система</string>
     <string name="befor_check_low_memory">Недостаточно места. Обновление не может быть произведено.</string>
+    <string name="local_update">Локальное обновление</string>
+    <string name="system_update">Обновление системы</string>
+    <string name="wifi_on_update">Напоминать об обновлении только когда включен Wi-Fi</string>
     <string name="dm_fail">" Ошибка "</string>
     <string name="dm_update_fail">Пакет обновления недоступен, проверьте доступность обновления.</string>
     <string name="dm_already_new">На Вашем телефоне установлена последняя версия ПО. Обновлений не найдено.</string>
     <string name="dm_ci_fumo_busy">Система занята, попробуйте позже!</string>
-    <string name="dm_version">Версия ПО</string>
-    <string name="dm_update_date">Последняя проверка</string>
+    <string name="no_update_file_in_fota_sdcard_title">Нет пакета обновления</string>
+    <string name="no_find_update_file_in_sdcard">Пожалуйста, убедитесь, что есть обновление пакета на диске. Тогда вы сможете обновить.</string>
+    <string name="before_sd_update_lack_battery_title">Низкий заряд батареи</string>
+    <string name="before_sd_update_lack_battery_message">Невозможно начать обновление при низком заряде батареи. Зарядите телефон.</string>
+    <string name="start_check_update_package">Начать обновление</string>
+    <string name="start_check_update_package_title">Обновить с диска</string>
+    <string name="install_update_disk">"
+"&lt;li>"Скопируйте пакет обновления в корневую папку диска до начала.
+
+"&lt;/li>&lt;li>"Обновление не удалит ваши данные.
+
+"&lt;/li>&lt;li>"Пожалуйста, не вынимайте SIM-карту и не отключайте питание.
+
+"&lt;/li></string>
+    <string name="icc_card_absent">ICC карта отсутствует</string>
+    <string name="nubia_name">Nubia</string>
+    <string name="personality_desc">Индивидуальный подход к жизни</string>
+    <string name="current_version_tag">"Текущая версия: "</string>
+    <string name="new_version_found_tip">Есть новая версия:</string>
+    <string name="new_version_download_tip">Скачали новую версию:</string>
+    <string name="downloading_tip">Качаете новую версию:</string>
+    <string name="download_error_tip">Произошла ошибка, пожалуйста, проверьте вашу сеть и повторите</string>
+    <string name="system_update_settings_list_item_title_fota">Обновление по воздуху</string>
+    <string name="update_gesture_prompt">Для разблокировки введите графический ключ</string>
+    <string name="update_gesture_explanation">Введите графический ключ для перезагрузки телефона и применения обновления.</string>
+    <string name="recovery_entry">Recovery</string>
+    <string name="fastboot_entry">Fastboot</string>
+    <string name="recovery_desc">Перезагрузить телефон в режим Recovery</string>
+    <string name="fastboot_desc">Перезагрузить телефон в режим Fastboot</string>
 </resources>

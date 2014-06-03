@@ -29,8 +29,8 @@
         <item quantity="one">%1$d перемещается</item>
     </plurals>
     <plurals name="number_of_items_gifed">
-        <item quantity="other">ОК (%1$d)</item>
-        <item quantity="zero">ОК (%1$d)</item>
-        <item quantity="one">ОК (%1$d)</item>
+        <item quantity="other">Да (%1$d)</item>
+        <item quantity="zero">Да (%1$d)</item>
+        <item quantity="one">Да (%1$d)</item>
     </plurals>
 </resources>
