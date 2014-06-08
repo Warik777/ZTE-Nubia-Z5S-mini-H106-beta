@@ -5,7 +5,7 @@
     <string name="widget_default_package_name" />
     <string name="widget_default_class_name" />
     <string name="config_notificationDefaultComponent">com.android.keyguard/cn.nubia.notification.CardListenerService</string>
-    <string name="date_format">EEE, MMMM d</string>
+    <string name="date_format">d MMMM, EEE</string>
     <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
     <string name="clock_12hr_format">hm</string>
     <string name="clock_24hr_format">Hm</string>
@@ -149,7 +149,7 @@
     <string name="keyguard_carrier_default">Нет сигнала.</string>
     <string name="msim_kg_sim_pin_msg_format" formatted="false">Тема:%d : %s.</string>
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
-    <string name="unlock">разблокировать</string>
+    <string name="unlock">Разблокировать</string>
     <string name="message_separator">—</string>
     <string name="charging">Идет зарядка (%d%%)</string>
     <string name="charged">Батарея заряжена</string>
