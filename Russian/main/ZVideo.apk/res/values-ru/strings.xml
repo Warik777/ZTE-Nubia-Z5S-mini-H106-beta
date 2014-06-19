@@ -14,7 +14,7 @@
     <string name="resume_playing_message">Продолжить воспроизведение с %s?</string>
     <string name="resume_playing_resume">Продолжить воспроизведение</string>
     <string name="resume_playing_restart">Начать с начала</string>
-    <string name="ok">ОК</string>
+    <string name="ok">Ок</string>
     <string name="delete">Удалить</string>
     <string name="confirm">Подтвердить</string>
     <string name="cancel">Отмена</string>
@@ -68,7 +68,7 @@
     <string name="filenameisnull">Имя файла не может быть пустым, укажите, пожалуйста, еще раз.</string>
     <string name="filename_invalid">Не удалось переименовать: имя файла содержит недопустимый символ.</string>
     <string name="exceed_filename_size_limitation">Длина названия файла слишком длинная, присвоить первые 100 символов автоматически.</string>
-    <string name="no_content">Нет пунктов</string>
+    <string name="no_content">Нет видеофайлов</string>
     <string name="encrypt_media">Пожалуйста, выберите изображения или видео</string>
     <string name="encrypt_image">Зашифровать изображение</string>
     <string name="encrypt_video">Зашифровать видео</string>

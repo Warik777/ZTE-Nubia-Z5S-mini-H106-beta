@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="application_name">Launcher</string>
+    <string name="application_name">Лаунчер Nubia</string>
     <string name="home">Главный экран</string>
     <string name="uid_name">Основные приложения</string>
     <string name="folder_name">Папка</string>
@@ -85,7 +85,7 @@
     <string name="folder_cling_move_item">Чтобы переместить значок приложения, нажмите на него и удерживайте.</string>
     <string name="folder_cling_create_folder">Чтобы создать папку на главном экране, перенесите одно приложение на другое.</string>
     <string name="cling_dismiss">ОК</string>
-    <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
+    <string name="dummy_custom_cling_error_message">Ошибка: пользовательское размещение принято, но не перерисовано</string>
     <string name="folder_opened">Папка открыта, %1$d x %2$d</string>
     <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
     <string name="folder_tap_to_rename">Нажмите, чтобы подтвердить переименование</string>
@@ -98,15 +98,15 @@
     <string name="custom_workspace_cling_description_2" />
     <string name="menu_edit">Упорядочить значки</string>
     <string name="folder_out_of_space">Нет больше места в текущей папке.</string>
-    <string name="folder_accessories">Специальные</string>
+    <string name="folder_accessoriess">Специальные</string>
     <string name="folder_recommends">Рекомендованные</string>
     <string name="folder_tools">Инструменты</string>
     <string name="app_loading_title">Загрузка</string>
     <string name="app_loading_message">Загрузка приложений, пожалуйста подождите...</string>
-    <string name="workspace_cling_open_edit">Place long after the release of the icon can arrange icons oh</string>
+    <string name="workspace_cling_open_edit">После долгого нажатия на иконку можно упорядочить значки</string>
     <string name="cling_i_known">Я знаю</string>
-    <string name="edit_cling_move_item">Continue clicking on the icon, the icon into the region to be processed</string>
+    <string name="edit_cling_move_item">Продолжайте нажимать на иконки, которые должны быть обработаны</string>
     <string name="edit_cling_arrange_area">Области обработки</string>
-    <string name="edit_cling_finish">Slide the other screen, click on the icon to be processed to complete the move</string>
-    <string name="edit_cling_hit_item">Click on the, the icon is placed in the region to be processed</string>
+    <string name="edit_cling_finish">Пролистните до экрана, на который хотите поместить иконки</string>
+    <string name="edit_cling_hit_item">Нажмите на иконку, которая должна располагаться на выбранном экране</string>
 </resources>
