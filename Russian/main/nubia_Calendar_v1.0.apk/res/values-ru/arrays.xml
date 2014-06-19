@@ -172,7 +172,7 @@
         <item>Все мероприятия в серии</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Today</item>
+        <item>Сегодня</item>
         <item>День</item>
         <item>Неделя</item>
         <item>Месяц</item>
@@ -190,7 +190,7 @@
         <item>Никогда</item>
     </string-array>
     <string-array name="magic_ring_items">
-        <item>по умолчанию</item>
+        <item>По умолчанию</item>
         <item>Тихо</item>
         <item>Вибрация</item>
         <item>Звонок</item>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ui_default_package">com.android.incallui</string>
-    <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
-    <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
-    <string name="carrier_settings" />
-    <string name="carrier_settings_menu" />
-    <string name="phoneAppLabel">Телефон</string>
     <string name="emergencyDialerIconLabel">Экстренный вызов</string>
     <string name="phoneIconLabel">Телефон</string>
     <string name="fdnListLabel">Разрешенные номера</string>
@@ -772,7 +766,7 @@
     <string name="headset_autoanswer_immediately">Немедленно</string>
     <string name="headset_autoanswer_afterfives">После 5-ти секунд</string>
     <string name="headset_autoanswer_aftertens">После 10-ти секунд</string>
-    <string name="sms_polite_decline">SMS вежливое снижение</string>
+    <string name="sms_polite_decline">Вежливый отказ с SMS</string>
     <string name="call_prompts">Индикация при вызове</string>
     <string name="call_vibration">Вибрация при вызове</string>
     <string name="call_vibration_text">Настройки вибрации при вызове</string>
@@ -785,7 +779,7 @@
     <string name="minute_tone">Минутный сигнал</string>
     <string name="minute_tone_text">Оповещение 55-ую секунду каждой минуты</string>
     <string name="call_end_tone">Звук окончания вызова</string>
-    <string name="message_prompts">Подсказки сообщений</string>
+    <string name="message_prompts">Запросы сообщений</string>
     <string name="message_prompts_text">Открыть SMS и будильник во время вызова</string>
     <string name="nubia_call_record_save_path">Место сохранения записи звонка</string>
     <string name="nubia_call_record_save_path_default">Память телефона</string>
@@ -880,7 +874,7 @@ phone 2：%s"</string>
     <string name="card_two">Карта 2</string>
     <string name="card_one_settings">Настройки 1-й карты</string>
     <string name="card_two_settings">Настройки 2-й карты</string>
-    <string name="nubia_ring_gradually_strong">При громком входящем вызове</string>
+    <string name="nubia_ring_gradually_strong">Нарастающий звонок</string>
     <string name="nubia_plmn_successful">обновление оператором является успешным.</string>
     <string name="nubia_plmn_error_no_value">Нет значения для обновления!</string>
     <string name="nubia_plmn_error_valid_id">Введите правильный ID</string>

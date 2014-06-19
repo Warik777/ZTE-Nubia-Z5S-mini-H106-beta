@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ZMakeGif</string>
+    <string name="app_name">Gif аниматор</string>
     <string name="filename">Имя файла</string>
     <string name="gif_making">Создание GIF..</string>
     <string name="gif_deleytime">Каждый кадр</string>
@@ -11,8 +11,8 @@
     <string name="fileisexist">Файл уже существовал, пожалуйста, введите имя файла снова.</string>
     <string name="filenameisnull">Имя файла Null, введите имя файла снова.</string>
     <string name="make_gif">Создать GIF</string>
-    <string name="gif_unrewind">Unrewind</string>
-    <string name="gif_rewind">Перемотка</string>
+    <string name="gif_unrewind">По убыванию</string>
+    <string name="gif_rewind">По возростанию</string>
     <string name="filename_invalid">Ошибка имени, потому что имя содержит недопустимые символы</string>
     <string name="filenotexist">Не сущетствует файла, чтобы создать gif.</string>
 </resources>

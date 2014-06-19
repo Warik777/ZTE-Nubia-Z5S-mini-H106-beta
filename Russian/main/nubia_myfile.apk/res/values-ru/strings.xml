@@ -121,8 +121,8 @@
     <string name="zip_failure">Ошибка zip потому что имя файла или папки пустое</string>
     <string name="zip_need_rename">Архив с таким именем уже существует, переименуйте перед архивацией.</string>
     <string name="unzip_success">%s разархивирован</string>
-    <string name="apk_installed">Установлено</string>
-    <string name="apk_uninstalled">Удалено</string>
+    <string name="apk_installed">Установлены</string>
+    <string name="apk_uninstalled">Удалены</string>
     <string name="apk_operation_title">Настройки приложения</string>
     <string name="set_as_wallpaper_failed">Не удалось установить как обои!</string>
     <string name="set_as_wallpaper_success">Успешно установлено как обои!</string>
@@ -194,16 +194,16 @@
     <string name="tag_adding">добавление</string>
     <string name="tag_deleting">удаление</string>
     <string name="view_vcard">Хотите импортировать контакты?</string>
-    <string name="view_on_file_path">Хранения мобильных</string>
-    <string name="sd_not_plug_in">Не подключаться</string>
-    <string name="usb_not_plug_in">Не подключаться</string>
-    <string name="otg_tip">С помощью OTG кабеля передачи данных для подключения yout телефона к внешней памяти (например, U диска) позволяет использовать мобильные телефоны для чтения файлов.</string>
+    <string name="view_on_file_path">Память телефона</string>
+    <string name="sd_not_plug_in">Не подключена</string>
+    <string name="usb_not_plug_in">Не подключено</string>
+    <string name="otg_tip">OTG кабель передачи данных для подключения вашего телефона к внешней памяти (например, USB диску) позволяет использовать мобильный телефон для чтения файлов.</string>
     <string name="otg_data_cable">Что такое OTG кабель для передачи данных?</string>
-    <string name="privacy_space">Конфиденциальность пространства</string>
+    <string name="privacy_space">Личное пространство</string>
     <string name="search_tip">Поиск файла</string>
     <string name="menu_more">Подробнее</string>
     <string name="not_found_result">Результаты не найдены</string>
     <string name="information_separate">/</string>
     <string name="usb_plug_in">Подключен</string>
-    <string name="not_support_privacy_space">Не поддерживать конфиденциальность пространства</string>
+    <string name="not_support_privacy_space">Личное пространство не поддерживается</string>
 </resources>

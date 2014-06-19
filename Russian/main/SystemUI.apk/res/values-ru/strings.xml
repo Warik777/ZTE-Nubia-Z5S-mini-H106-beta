@@ -221,7 +221,7 @@
     <string name="clear">Очистить</string>
     <string name="sort">Еще</string>
     <string name="settings">Настройки</string>
-    <string name="lockscreen">Блокировка экрана</string>
+    <string name="lockscreen">Блокировка</string>
     <string name="screenprojector">Проектор</string>
     <string name="splitscreen">Разделенный экран</string>
     <string name="nothing" />
@@ -291,7 +291,7 @@ PTP: Позволяет определить телефон как фотока�
     <string name="status_bar_setting_lockscreen">Экран блокировки</string>
     <string name="status_bar_setting_notification">Уведомления</string>
     <string name="status_bar_setting_miss" />
-    <string name="status_bar_setting_miss_sub">пропущеные звонки и  СМС на экране блокировки</string>
+    <string name="status_bar_setting_miss_sub">Пропущеные звонки и  СМС на экране блокировки</string>
     <string name="status_bar_setting_app_lockscreen">Уведомления на экране блокировки</string>
     <string name="status_bar_setting_app_lockscreen_sub">Выбор приложений с уведомлениями на экране блокировки</string>
     <string name="status_bar_setting_app_notification">Настройка уведомлений</string>

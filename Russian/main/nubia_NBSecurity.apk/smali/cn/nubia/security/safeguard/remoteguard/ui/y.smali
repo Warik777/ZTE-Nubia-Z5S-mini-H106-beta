@@ -1,5 +1,6 @@
 .class Lcn/nubia/security/safeguard/remoteguard/ui/y;
 .super Ljava/lang/Object;
+.source "SourceFile"
 
 # interfaces
 .implements Landroid/view/View$OnClickListener;
@@ -13,8 +14,11 @@
 .method constructor <init>(Lcn/nubia/security/safeguard/remoteguard/ui/v;)V
     .locals 0
 
+    .prologue
+    .line 1
     iput-object p1, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
+    .line 64
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void
@@ -25,6 +29,8 @@
 .method public onClick(Landroid/view/View;)V
     .locals 4
 
+    .prologue
+    .line 69
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
     invoke-static {v0}, Lcn/nubia/security/safeguard/remoteguard/ui/v;->b(Lcn/nubia/security/safeguard/remoteguard/ui/v;)Landroid/widget/EditText;
@@ -63,10 +69,12 @@
 
     if-eqz v0, :cond_1
 
+    .line 89
     :cond_0
     :goto_0
     return-void
 
+    .line 70
     :cond_1
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
@@ -88,6 +96,7 @@
 
     if-lez v0, :cond_2
 
+    .line 71
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
     invoke-virtual {v0}, Lcn/nubia/security/safeguard/remoteguard/ui/v;->getActivity()Landroid/app/Activity;
@@ -106,6 +115,7 @@
 
     goto :goto_0
 
+    .line 74
     :cond_2
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
@@ -125,6 +135,7 @@
 
     invoke-static {v0, v1}, Lcn/nubia/security/safeguard/remoteguard/util/r;->a(Landroid/content/Context;Z)V
 
+    .line 76
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
     invoke-virtual {v0}, Lcn/nubia/security/safeguard/remoteguard/ui/v;->getActivity()Landroid/app/Activity;
@@ -147,6 +158,7 @@
 
     invoke-static {v0, v1}, Lcn/nubia/security/safeguard/remoteguard/util/r;->c(Landroid/content/Context;Ljava/lang/String;)V
 
+    .line 78
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
     invoke-static {v0}, Lcn/nubia/security/safeguard/remoteguard/ui/v;->a(Lcn/nubia/security/safeguard/remoteguard/ui/v;)Landroid/widget/CheckBox;
@@ -159,10 +171,12 @@
 
     if-eqz v0, :cond_3
 
+    .line 79
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
     invoke-static {v0}, Lcn/nubia/security/safeguard/remoteguard/ui/v;->c(Lcn/nubia/security/safeguard/remoteguard/ui/v;)V
 
+    .line 82
     :cond_3
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
@@ -178,6 +192,7 @@
 
     if-eq v0, v1, :cond_4
 
+    .line 83
     iget-object v0, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
     invoke-virtual {v0}, Lcn/nubia/security/safeguard/remoteguard/ui/v;->getActivity()Landroid/app/Activity;
@@ -188,6 +203,7 @@
 
     invoke-static {v0, v1}, Lcn/nubia/security/safeguard/remoteguard/util/r;->a(Landroid/content/Context;I)Z
 
+    .line 86
     :cond_4
     new-instance v0, Landroid/content/Intent;
 
@@ -205,6 +221,7 @@
 
     invoke-direct {v0, v1}, Landroid/content/Intent;-><init>(Landroid/content/Intent;)V
 
+    .line 87
     iget-object v1, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;
 
     invoke-virtual {v1}, Lcn/nubia/security/safeguard/remoteguard/ui/v;->getActivity()Landroid/app/Activity;
@@ -213,6 +230,7 @@
 
     invoke-virtual {v1, v0}, Landroid/app/Activity;->startService(Landroid/content/Intent;)Landroid/content/ComponentName;
 
+    .line 88
     const/16 v0, 0x9
 
     iget-object v1, p0, Lcn/nubia/security/safeguard/remoteguard/ui/y;->a:Lcn/nubia/security/safeguard/remoteguard/ui/v;

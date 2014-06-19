@@ -95,18 +95,6 @@
         <item>Другое</item>
         <item>Создать свой ярлык</item>
     </string-array>
-    <string-array name="lockscreen_num_pad_klondike">
-        <item></item>
-        <item></item>
-        <item>АБВГ</item>
-        <item>ДЕЖЗ</item>
-        <item>ИЙКЛ</item>
-        <item>МНОП</item>
-        <item>РСТУ</item>
-        <item>ФХЦЧ</item>
-        <item>ШЩЪЫ</item>
-        <item>ЬЭЮЯ</item>
-    </string-array>
     <string-array name="weeks">
         <item>Воскресенье</item>
         <item>Понедельник</item>

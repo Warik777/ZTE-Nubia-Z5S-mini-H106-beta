@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="content_str_array">
-        <item>Закрыть таймер</item>
+        <item>Не установлен</item>
         <item>10 минут</item>
         <item>30 минут</item>
         <item>60 минут</item>
@@ -25,18 +25,6 @@
         <item>Супер качество</item>
         <item>Стандартное качество</item>
     </string-array>
-    <string-array name="artist_category">
-        <item>Mandarin Male Singer</item>
-        <item>Chinese female singer</item>
-        <item>Chinese combination</item>
-        <item>European and American male singers</item>
-        <item>European and American singer</item>
-        <item>U.S. and European portfolio</item>
-        <item>Korean male singers</item>
-        <item>Korean female singer</item>
-        <item>Japan and South Korea combination</item>
-        <item>Other singers</item>
-    </string-array>
     <string-array name="playlist_operation">
         <item>Открыть</item>
         <item>Играть</item>
@@ -54,20 +42,6 @@
         <item>Открыть</item>
         <item>Играть</item>
         <item>Удалить</item>
-    </string-array>
-    <string-array name="artist_typeitem_arrays">
-        <item>Mainland Male Singer</item>
-        <item>Female singer Mainland</item>
-        <item>Mainland portfolio</item>
-        <item>European and American male singers</item>
-        <item>European and American singer</item>
-        <item>U.S. and European portfolio</item>
-        <item>Hong Kong and Taiwan male singer</item>
-        <item>Hong Kong and Taiwan singer</item>
-        <item>RTHK\'s portfolio</item>
-        <item>Korean male singers</item>
-        <item>Korean female singer</item>
-        <item>Japan and South Korea combination</item>
     </string-array>
     <string-array name="ark_playpage_more">
         <item>Поделиться</item>
@@ -88,19 +62,5 @@
     </string-array>
     <string-array name="ark_playpage_more_radio">
         <item>Выйти</item>
-    </string-array>
-    <string-array name="top_type_list">
-        <item>Список композиций</item>
-        <item>Горячий список песен</item>
-        <item>Folk standings</item>
-        <item>Billboard Announcement</item>
-        <item>Film songs list</item>
-        <item>Hoot song list</item>
-        <item>HITO Chinese standings</item>
-        <item>Jazz Chart</item>
-        <item>KTV Hot song list</item>
-        <item>Rock chart</item>
-        <item>Soaring Chinese standings</item>
-        <item>European and American standings soar</item>
     </string-array>
 </resources>

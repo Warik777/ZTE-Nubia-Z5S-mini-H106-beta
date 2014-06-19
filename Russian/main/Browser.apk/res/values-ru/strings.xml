@@ -361,9 +361,9 @@
 	<string name="accessibility_state_frozen">Сохраненная страница</string>
 	<string name="accessibility_transition_navscreen">Управление вкладками</string>
     <string name="accessibility_button_bookmarks_folder_up">Предыдущий папка</string>
-    <string name="dialog_title">Выйти из браузера</string>
-    <string name="dialog_message">Закройте все используемые страницы и закрыть браузер!</string>
-    <string name="dialog_ok_btn">ОК</string>
+    <string name="dialog_title">Выход</string>
+    <string name="dialog_message">Закрыть все страницы и выйти из браузера!</string>
+    <string name="dialog_ok_btn">Да</string>
     <string name="dialog_no_btn">Отмена</string>
     <string name="menu_exit_browser">Выход</string>
     <string name="bottom_back">Назад</string>

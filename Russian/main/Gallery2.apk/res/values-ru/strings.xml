@@ -136,7 +136,7 @@
     <string name="help">Справка</string>
     <string name="help_url_gallery_main" />
     <string name="video_share">Поделиться</string>
-    <string name="video_edit">Редактировать</string>
+    <string name="video_edit">Редактор</string>
     <string name="video_encrypt">Шифровать</string>
     <string name="video_dolby">Dolby Digital Plus</string>
     <string name="video_help">Справка</string>
@@ -163,11 +163,10 @@
     <string name="video_press_again">Нажмите снова, чтобы выйти из</string>
     <string name="wallpaper_instructions_preset">Предустановленные обои</string>
     <string name="no_storage_available">Отсутствие внешнего хранения данных.</string>
-    <string name="no_enough_storage">Не достаточно места для хранения.</string>
     <string name="group_by_video">Группа видео</string>
     <string name="move">Операции</string>
     <string name="jigsaw">Коллаж</string>
-    <string name="makegif">Анимация Gif</string>
+    <string name="makegif">Анимация</string>
     <string name="setmark">Отметить</string>
     <string name="marked">Метки</string>
     <string name="group_by_mark">Группа меток</string>
@@ -213,7 +212,7 @@
     <string name="silent">Беззвучный</string>
     <string name="ztouch_photo_widget_title">Nubia фото виджет</string>
     <string name="create_info">Этот виджет был создан!</string>
-    <string name="improve_edit">Редактировать</string>
+    <string name="improve_edit">Редактор</string>
     <string name="slideshowwidget">Слайд-шоу</string>
     <string name="onephotowidget">Запомнить</string>
     <string name="twophotowidget">Фоторамка</string>
@@ -227,7 +226,7 @@
     <string name="wallpaper_instructions">Обои</string>
     <string name="wallpaper_lock">Настройка обоев блокировки экрана...</string>
     <string name="wallpaper_lock_both">Настройка блокировки экрана и обоев...</string>
-    <string name="improve_nubia">Nubia плакат</string>
+    <string name="improve_nubia">Плакат</string>
     <string name="undo_delete">Нажмите здесь, чтобы отменить</string>
     <string name="switch_to_grid">Перейти к сетке</string>
     <string name="switch_to_map">Переключиться на карту</string>
@@ -250,11 +249,11 @@
     <string name="folder_recent">Последний альбом</string>
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
-    <string name="time_format_day">M月d日</string>
-    <string name="time_format_month">yyyy年M月</string>
-    <string name="empty_album_info">Here over your Favorites, share, edit better!</string>
-    <string name="empty_album_info_ex_1">Over here you bookmark, share, edit,</string>
-    <string name="empty_album_info_ex_2">All beautiful!</string>
+    <string name="time_format_day">d M</string>
+    <string name="time_format_month">yyyy M</string>
+    <string name="empty_album_info">" "</string>
+    <string name="empty_album_info_ex_1">" "</string>
+    <string name="empty_album_info_ex_2">" "</string>
     <string name="show_hide">Скрыть папку</string>
     <string name="hide">Скрыть</string>
     <string name="addLocation">Добавить</string>

@@ -11,9 +11,9 @@
     <string name="httpErrorUnsupportedScheme">Протокол не поддерживается.</string>
     <string name="no">Отмена</string>
     <string name="ok">ОК</string>
-    <string name="paste">Вставить</string>
+    <string name="paste">" Вставить "</string>
     <string name="search_go">Поиск</string>
-    <string name="selectAll">Выбрать все</string>
+    <string name="selectAll">" Выбрать все "</string>
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;Без названия></string>
     <string name="VideoView_error_button">ОК</string>
@@ -1527,7 +1527,7 @@
     <string name="webviewchromium_media_player_error_button">Ок</string>
     <string name="webviewchromium_media_player_loading_video">Загрузка видео</string>
     <string name="webviewchromium_color_picker_button_more">Подробнее</string>
-    <string name="webviewchromium_color_picker_hue">Hue</string>
+    <string name="webviewchromium_color_picker_hue">Оттенок</string>
     <string name="webviewchromium_color_picker_saturation">Насыщенность</string>
     <string name="webviewchromium_color_picker_value">Значение</string>
     <string name="webviewchromium_color_picker_button_set">Установить</string>
@@ -1657,4 +1657,6 @@
 	<string name="group_name_coworkers">Коллеги</string>
 	<string name="group_name_family">Семья</string>
 	<string name="group_name_friends">Друзья</string>
-</resources>
+	<string name="text_pastelist">" Буфер "</string>
+    <string name="select">" Выбрать "</string>
+ </resources>

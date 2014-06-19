@@ -29,6 +29,10 @@
     <string name="app_name">Безопасность</string>
     <string name="action_settings">Настройки</string>
     <string name="hello_world">Hello world!</string>
+	<string name="setup_wizard_finish">Начать испытывать</string>
+    <string name="setup_wizard_prefix">Я принимаю</string>
+    <string name="setup_wizard_nubia_agreement_title">" "<a href="http://app.nubia.cn/agreement/nubia_securit_agreement.html"> Соглашение об оказании услуг Пользователю </a>" "</string>
+    <string name="setup_wizard_toast">Вы должны принять соглашение для использования</string>
     <string name="appmanage_process_manage_name">Управление процессами</string>
     <string name="appmanage_process_manage_cancel">Назад</string>
     <string name="appmanage_bkgapp_countvar">%1$d процессы, выполняющиеся в фоновом режиме</string>

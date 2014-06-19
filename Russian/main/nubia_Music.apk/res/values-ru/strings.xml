@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Музыкальный плеер</string>
-    <string name="action_settings">Настрйоки</string>
+    <string name="app_name">Музыка</string>
+    <string name="action_settings">Настройки</string>
     <string name="cancel">Отмена</string>
     <string name="buy">Купить</string>
     <string name="complete">Завершить</string>
@@ -9,14 +9,14 @@
     <string name="confirm">Подтвердить</string>
     <string name="local_music">Локальная</string>
     <string name="online_music">Онлайн</string>
-    <string name="local_all_music">Вся музыка</string>
-    <string name="local_favorite">Избранная</string>
+    <string name="local_all_music">Вся</string>
+    <string name="local_favorite">Любимая</string>
     <string name="local_folder">Папки</string>
     <string name="local_artist">Исполнители</string>
     <string name="local_album">Альбомы</string>
     <string name="local_download">Менеджер загрузки</string>
     <string name="local_my_playlist">Плейлисты</string>
-    <string name="local_more">Подробнее</string>
+    <string name="local_more">Еще</string>
     <string name="local_scan">Сканирование в файл</string>
     <string name="add_to_download_queue">Добавить в очередь загрузки</string>
     <string name="network_is_not_connected">Сеть не подключена или плохой сигнал, пожалуйста проверьте сеть</string>
@@ -118,13 +118,13 @@
     <string name="playlist_renamed_message">Плейлист переименован.</string>
     <string name="dellist">Удалить плейлист</string>
     <string name="rename_playlist_menu">Переименовать</string>
-    <string name="settings">Настрйоки</string>
+    <string name="settings">Настройки</string>
     <string name="setting_about">О музыке</string>
-    <string name="setting_timer">Отключить таймер</string>
+    <string name="setting_timer">Таймер отключения</string>
     <string name="setting_auto_img">Автоматически получить изображения и текст</string>
-    <string name="setting_download_qualification">Download Qualification</string>
+    <string name="setting_download_qualification">Качество загружаемого контента</string>
     <string name="setting_download_path">Загружать в папку</string>
-    <string name="setting_time_filter">Фильтр 60 сек.</string>
+    <string name="setting_time_filter">Фильтр 60 секунд</string>
     <string name="none_audiofile">Нет аудио файлов</string>
     <string name="online_new">Новый</string>
     <string name="online_musiclist">Музыка</string>
@@ -318,4 +318,6 @@
     <string name="downloadpath_cannot_write">Хранилище может только читать</string>
     <string name="filter_tip">Общий фильтр %s музыкальные клипы</string>
     <string name="radio_pre_tip">Он не поддерживает предыдущее радио</string>
+	<string name="artist_type_hongkongandtaiwan">Гонконг и Тайвань</string>
+	<string name="all_tag">Все</string>
 </resources>

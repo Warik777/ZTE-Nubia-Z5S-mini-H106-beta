@@ -122,7 +122,7 @@
     <string name="bluetooth_disconnecting">Отключение…</string>
     <string name="bluetooth_connecting">Подключение…</string>
     <string name="bluetooth_unknown" />
-    <string name="bluetooth_pairing">Сопряжение…</string>
+    <string name="bluetooth_pairing">Pairing…</string>
     <string name="bluetooth_device">Безымянное Bluetooth устройство</string>
     <string name="progress_scanning">Поиск</string>
     <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
@@ -287,7 +287,7 @@
     <string name="security_enable_widgets_title">Включить виджеты</string>
     <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
+    <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
     <string name="show_user_info_on_lockscreen_label">Отображать информацию о пользователе на экране блокировки</string>
     <string name="user_info_settings_title">Информация о пользователе</string>
     <string name="show_profile_info_on_lockscreen_label">Отображать информацию профиля на экране блокировки</string>
@@ -325,7 +325,7 @@
     <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
     <string name="unlock_set_unlock_off_title">Нет</string>
     <string name="unlock_set_unlock_off_summary" />
-    <string name="unlock_set_unlock_none_title">Прокрутка</string>
+    <string name="unlock_set_unlock_none_title">Slide</string>
     <string name="unlock_set_unlock_none_summary">Защита отключена</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
@@ -395,7 +395,7 @@
     <string name="bluetooth_pairing_accept">Сопряжение</string>
     <string name="bluetooth_pairing_decline">Отмена</string>
     <string name="bluetooth_error_title" />
-    <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
+    <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к "%1$s", так как введен неверный PIN код или пароль.</string>
     <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с "%1$s".</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение.</string>
@@ -523,7 +523,7 @@
     <string name="wifi_menu_wps_pin">Ввод пин WPS</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_scan">Поиск</string>
-    <string name="wifi_menu_advanced">Дополнительные функции</string>
+    <string name="wifi_menu_advanced">Еще</string>
     <string name="wifi_menu_connect">Подключиться к сети</string>
     <string name="wifi_menu_forget">Забыть сеть</string>
     <string name="wifi_menu_modify">Изменить сеть</string>
@@ -788,7 +788,7 @@
     <string name="device_info_settings">Состояние телефона</string>
     <string name="system_update_settings_list_item_title">Обновление системы</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="firmware_version">Версия Android</string>
+    <string name="firmware_version">Android version</string>
     <string name="model_number">Модель</string>
     <string name="fcc_equipment_id">ID оборудования</string>
     <string name="baseband_version">Радиомодуль</string>
@@ -843,7 +843,7 @@
     <string name="sd_insert_summary">Подсоедините SD карту для подключения</string>
     <string name="sd_mount">Подключить SD карту</string>
     <string name="sd_mount_summary" />
-    <string name="sd_format">Очистить SD карту</string>
+    <string name="sd_format">Erase SD card</string>
     <string name="sd_format_summary">Очистка удалит все данные с SD карты, например, музыку и фотографии</string>
     <string name="memory_clear_cache_title">Очистить кэш?</string>
     <string name="memory_clear_cache_message">Удаление всех сохраненных данных для всех приложений.</string>
@@ -851,7 +851,7 @@
     <string name="dlg_confirm_unmount_title">Отключить USB накопитель?</string>
     <string name="dlg_confirm_unmount_text">Если отключить USB накопитель, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
     <string name="dlg_error_unmount_title" />
-    <string name="dlg_error_unmount_text">Не удалось отключить USB накопитель. Повторите попытку позже.</string>
+    <string name="dlg_error_unmount_text">"Couldn't unmount SD card. Try again later."</string>
     <string name="unmount_inform_text">USB накопитель будет отключен.</string>
     <string name="sd_ejecting_title">Извлечение</string>
     <string name="sd_ejecting_summary">Выполняется извлечение</string>
@@ -902,7 +902,7 @@
     <string name="menu_save">Сохранить</string>
     <string name="menu_cancel">Отменить</string>
     <string name="error_title" />
-    <string name="error_name_empty">Необходимо указать название.</string>
+    <string name="error_name_empty">"The Name field can't be empty."</string>
     <string name="error_apn_empty">Необходимо указать APN.</string>
     <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
@@ -1038,9 +1038,9 @@
     <string name="lockpattern_change_lock_pin_label">Изменить PIN код разблокировки</string>
     <string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
     <string name="lockpattern_need_to_unlock_footer" />
-    <string name="lockpattern_need_to_unlock_wrong">Повторить попытку:</string>
+    <string name="lockpattern_need_to_unlock_wrong">Try again:</string>
     <string name="lockpattern_need_to_unlock_wrong_footer" />
-    <string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки:</string>
+    <string name="lockpattern_recording_intro_header">Draw an unlock pattern</string>
     <string name="lockpattern_recording_intro_footer">Для справки нажмите "Меню".</string>
     <string name="lockpattern_recording_inprogress">По завершении отпустите палец</string>
     <string name="lockpattern_recording_incorrect_too_short">Соедините точки (минимум %d)</string>
@@ -1120,7 +1120,7 @@
  "<li>фоновых данных</li>"
 
  Данные приложений потеряны не будут!"</string>
-    <string name="reset_app_preferences_button">Сброс приложений</string>
+    <string name="reset_app_preferences_button">Сброс</string>
     <string name="manage_space_text">Управление местом</string>
     <string name="filter">Фильтр</string>
     <string name="filter_dlg_title">Параметры фильтра</string>
@@ -1140,7 +1140,7 @@
     <string name="dlg_ok">ОК</string>
     <string name="dlg_cancel">Отмена</string>
     <string name="app_not_found_dlg_title" />
-    <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных.</string>
+    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
     <string name="clear_data_failed">Не удалось удалить данные приложения.</string>
     <string name="app_factory_reset_dlg_title">Удалить обновления?</string>
     <string name="app_factory_reset_dlg_text">Все обновления для этого приложения будут удалены.</string>
@@ -1170,7 +1170,7 @@
     <string name="force_stop_dlg_title">Остановить принудительно?</string>
     <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности.</string>
     <string name="move_app_failed_dlg_title" />
-    <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
+    <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
     <string name="app_install_location_title">Место установки</string>
     <string name="app_install_location_summary">Изменить папку для установки приложений</string>
     <string name="app_disable_dlg_title">Отключить встроеное приложение?</string>
@@ -1248,7 +1248,7 @@
     <string name="keyboard_layout_picker_title">Раскладка клавиатуры</string>
     <string name="user_dict_settings_title">Пользовательский словарь</string>
     <string name="user_dict_settings_summary" />
-    <string name="user_dict_settings_add_menu_title">Добавить</string>
+    <string name="user_dict_settings_add_menu_title">Add</string>
     <string name="user_dict_settings_add_dialog_title">Добавить в словарь</string>
     <string name="user_dict_settings_add_screen_title">Фраза</string>
     <string name="user_dict_settings_add_dialog_more_options">Больше настроек</string>
@@ -1349,7 +1349,7 @@
     <string name="app_name_label">Приложение</string>
     <string name="launch_count_label">Подсчет</string>
     <string name="usage_time_label">Время использования</string>
-    <string name="accessibility_settings">Спец. возможности</string>
+    <string name="accessibility_settings">Специальные возможности</string>
     <string name="accessibility_settings_title">Настройка спец. возможностей</string>
     <string name="accessibility_services_title">Службы</string>
     <string name="accessibility_system_title">Система</string>
@@ -1627,7 +1627,7 @@
     <string name="credentials_install_gesture_prompt">Нарисуйте жест разблокировки</string>
     <string name="credentials_install_gesture_explanation">Вам необходимо нарисовать жест разблокировки</string>
     <string name="credentials_unlock" />
-    <string name="credentials_unlock_hint">Введите пароль для памяти регистрационных данных.</string>
+    <string name="credentials_unlock_hint">Type the password for credential storage.</string>
     <string name="credentials_old_password">Текущий пароль:</string>
     <string name="credentials_reset_hint">Удалить весь контент?</string>
     <string name="credentials_password_too_short">Не менее 8 символов.</string>
@@ -1657,7 +1657,7 @@
     <string name="local_backup_password_toast_confirmation_mismatch">Новый пароль и подтверждение не совпадают</string>
     <string name="local_backup_password_toast_validation_failure">Ошибка установки пароля</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_erase_dialog_message">Прекратить резервное копирование паролей точек доступа Wi-Fi, закладок, других настроек и данных приложений, а также удалить все копии с серверов Google?</string>
+    <string name="backup_erase_dialog_message">Stop backing up your Wi‑Fi passwords, bookmarks, other settings, and app data, plus erase all copies on Google servers?</string>
     <string name="device_admin_settings_title">Настройки администрирования устройства</string>
     <string name="active_device_admin_msg">Администратор устройства</string>
     <string name="remove_device_admin">Отключить</string>
@@ -2076,7 +2076,7 @@
     <string name="user_image_take_photo">Снять фото</string>
     <string name="user_image_choose_photo">Выбрать из галереи</string>
     <string name="regulatory_info_text" />
-    <string name="wifi_display_settings_empty_list_wifi_display_off">Для того чтобы увидеть устройства, включите функцию.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">Что бы увидеть устройства включите беспроводной дисплей</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Беспроводной дисплей отключен так как нет подключения к сети Wi-Fi.</string>
     <string name="wifi_display_search_for_devices">Поиск устройств</string>
     <string name="wifi_display_searching_for_devices">Поиск…</string>
@@ -2089,7 +2089,7 @@
     <string name="profile_settings">Профиль</string>
     <string name="vistor_title">visitor</string>
     <string name="visitor_summary">"контакты, сообщения, электронная почта, фото,cloudManager, календарь, наклейка будут скрыты и не изменить рабочий стол"</string>
-    <string name="pocket_title">Карман</string>
+    <string name="pocket_title">В кармане</string>
     <string name="pocket_summary">Максимальная громкость звонка и вибрации в кармане</string>
     <string name="meeting_title">Совещание</string>
     <string name="meeting_summary">Только вибрация</string>
@@ -2111,8 +2111,8 @@
     <string name="powersave_actionbar_title">Энергосбережение</string>
     <string name="text_powersave_choose">включать самое высокое энергосбережение при низком уровне батареи</string>
     <string name="sleep_mod">Спящий режим</string>
-    <string name="deep_sleep_title">Дополнительный сп. режим</string>
-    <string name="deep_sleep_music_title">Дополнительное муз. сопровождение</string>
+    <string name="deep_sleep_title">Дополнительный режим</string>
+    <string name="deep_sleep_music_title">Музыкальное сопровождение</string>
     <string name="notify_favorite_title">Напоминания только об избранных контактах</string>
     <string name="notify_favorite_summary">Напоминание об избранных контактах через 3 минуты</string>
     <string name="snooze_title">Режим дремания при проведении рукой</string>
@@ -2129,7 +2129,7 @@
     <string name="sleep_music_dream_kingdom">Королевство мечты</string>
     <string name="sleep_music_dream_hometown">Город мечты</string>
     <string name="sleep_music_dream_angelparty">Ангельская вечеринка</string>
-    <string name="profile_widget_string">Профиль</string>
+    <string name="profile_widget_string">Профили</string>
     <string name="profile_sleep_time_settings">Время сна</string>
     <string name="sleep_time_start">23:00</string>
     <string name="sleep_time_end">07:00</string>
@@ -2139,18 +2139,18 @@
     <string name="avoid_mistouch_summary">Предотвращает случайные действия, когда телефон в кармане</string>
     <string name="maxring_vibrate_title">Максимум громкости и вибрация</string>
     <string name="maxring_vibrate_summary">Максимальная громкость рингтона и вибрация при входящем звонке, когда телефон в кармане</string>
-    <string name="notify_favorite_title2">Повторные входящие звонки не заблокированы</string>
-    <string name="notify_favorite_summary2">Телефон должен звонить или вибрировать при получении того же входящего вызова в третий раз или более за 5 минут</string>
-    <string name="sleep_explain_title">После ыключения Спящего режима телефон не должен звонить, вибрировать или пробудиться любым входящим звонком или сообщением, кроме из списка допустимых контактов</string>
-    <string name="deep_sleep_onoff_title">Переключатель таймера</string>
+    <string name="notify_favorite_title2">Повторные звонки не блокируются</string>
+    <string name="notify_favorite_summary2">Телефон должен звонить или вибрировать при получении одного и того же входящего вызова в третий раз или более за 5 минут</string>
+    <string name="sleep_explain_title">После включения Спящего режима телефон не должен звонить, вибрировать или пробудиться любым входящим звонком или сообщением, кроме из списка допустимых контактов</string>
+    <string name="deep_sleep_onoff_title">Включить автоматически</string>
     <string name="deep_sleep_category_title">Список функций</string>
     <string name="sleep_unconnect_title">Отключить сетевое подключение</string>
-    <string name="sleep_unconnect_summary">WLAN, mobile networks, GPS, Bluetooth, Wi-Fi hotspots</string>
+    <string name="sleep_unconnect_summary">WLAN, Передача данных, GPS, Bluetooth, Wi-Fi точка доступа</string>
     <string name="deep_sleep_category_tel_title">Настройки входящих звонков</string>
     <string name="sleep_tel_setting_title">Допустимые контакты</string>
     <string name="sleep_tel_white_title">Список допустимых контактов</string>
-    <string name="sleep_time_start_title">От:</string>
-    <string name="sleep_time_end_title">Кому:</string>
+    <string name="sleep_time_start_title">С:</string>
+    <string name="sleep_time_end_title">До:</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="sleep_assistant_text">Слушайте музыку перед сном</string>
     <string name="music_time_10_min">10 минут</string>
@@ -2172,8 +2172,8 @@
     <string name="profile_deskmode_title">Режим рабочего стола</string>
     <string name="nubia_big_deskmode">Простой режим</string>
     <string name="standard_deskmode">Стандартный рабочий стол</string>
-    <string name="nubia_big_deskmode_summary">Простой режим обеспечивает больший текст и пиктограммы, и проще компоновка интерфейса. Он позволяет использовать телефон удобнее.</string>
-    <string name="standard_deskmode_summary">Показать регулярные значки на рабочем столе и текст, и свободно регулировать позиции иконок и обои для рабочего стола.</string>
+    <string name="nubia_big_deskmode_summary">Простой режим обеспечивает больший текст и пиктограммы, и проще компоновка интерфейса. Он позволяет использовать телефон удобнее для слабовидящих.</string>
+    <string name="standard_deskmode_summary">Показать обычные значки на рабочем столе, свободно регулировать позиции иконок и обои для рабочего стола.</string>
     <string name="done_selected_deskmode">Готово</string>
     <string name="deep_sleep_time_state">Телефон вступает в спящий режим в определенный период времени после того, как функция включена.</string>
     <string name="cancel_select_all">Выберите отменить</string>

@@ -3,7 +3,7 @@
     <string name="phoneAppLabel">Телефон</string>
     <string name="inCallLabel">InCallUI</string>
     <string name="onHold">На удержании</string>
-    <string name="unknown">Неизвестный абонент</string>
+    <string name="unknown">Неизвестен</string>
     <string name="private_num">Скрытый номер</string>
     <string name="payphone">Телефон-автомат</string>
     <string name="callFailed_userBusy">Линия занята</string>
@@ -37,18 +37,15 @@
     <string name="audio_mode_earpiece">Динамик гарнитуры</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="wait_prompt_str">"Отправить следующие тоны?
-"</string>
-    <string name="pause_prompt_str">"Отправка тональных сигналов
-"</string>
-    <string name="send_button">Позвонить</string>
+    <string name="wait_prompt_str">"Отправить следующие тоны?"</string>
+    <string name="pause_prompt_str">"Отправка тональных сигналов"</string>
+    <string name="send_button">Отправить</string>
     <string name="pause_prompt_yes">Да</string>
     <string name="pause_prompt_no">Нет</string>
     <string name="wild_prompt_str">Заменить универсальный символ на</string>
     <string name="modify_call_prompt_yes">Да</string>
     <string name="modify_call_prompt_no">Нет</string>
-    <string name="modify_call_failure_str">"Изменить запрос вызова не удалось
-"</string>
+    <string name="modify_call_failure_str">"Изменить запрос вызова не удалось"</string>
     <string name="modify_call_option_title">Как позвонить?</string>
     <string name="modify_call_option_vt">VT</string>
     <string name="modify_call_option_vt_tx">Передача видео</string>
@@ -86,7 +83,7 @@
     <string name="labelCallerId">АОН</string>
     <string name="sum_loading_settings">Загрузка настроек…</string>
     <string name="sum_hide_caller_id">Скрывать номер при исходящих вызовах</string>
-    <string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
+    <string name="sum_show_caller_id">Отображать номер при исходящих вызовах</string>
     <string name="sum_default_caller_id">При исходящих вызовах использовать для отображения моего номера настройки, предоставляемые оператором</string>
     <string name="labelCW">Параллельный вызов</string>
     <string name="sum_cw_enabled">Извещать меня о входящих вызовах во время разговора</string>
@@ -124,7 +121,7 @@
     <string name="stk_cc_ss_to_dial_error">Запрос SS изменен на набор номера.</string>
     <string name="stk_cc_ss_to_ussd_error">Запрос SS изменен на USSD запрос.</string>
     <string name="stk_cc_ss_to_ss_error">Запрос SS изменен на новый SS запрос.</string>
-    <string name="fdn_check_failure">Разрешенные номера в приложении "Телефон" включены. В результате некоторые функции вызовов недоступны.</string>
+    <string name="fdn_check_failure">Разрешенные номера в приложении Телефон включены. В результате некоторые функции вызовов недоступны.</string>
     <string name="radio_off_error">Чтобы увидеть настройки, включите приемопередатчик.</string>
     <string name="close_dialog">ОК</string>
     <string name="enable">Включить</string>
@@ -403,7 +400,7 @@
     <string name="onscreenModifyCallText">Изменить вызов</string>
     <string name="onscreenShowDialpadText">Кнопки</string>
     <string name="onscreenMuteText">Откл. звук</string>
-    <string name="onscreenAddCallText">+ вызов</string>
+    <string name="onscreenAddCallText">Добавить вызов</string>
     <string name="onscreenMergeCallsText">Соединить</string>
     <string name="onscreenSwapCallsText">Перевод звонка</string>
     <string name="onscreenManageCallsText">Управление вызовами</string>
@@ -546,7 +543,7 @@
     <string name="transport">Протокол</string>
     <string name="send_keepalive">SendKeepAlive</string>
     <string name="set_primary">SetPrimary</string>
-    <string name="advanced_settings_container">расширенные настройки контейнера</string>
+    <string name="advanced_settings_container">Расширенные настройки контейнера</string>
     <string name="auth_username">Авторизация имени пользователя</string>
     <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
     <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
@@ -578,7 +575,7 @@
     <string name="description_delete_button">возврат</string>
     <string name="accessibility_speakerphone_enabled">Громкая связь включена.</string>
     <string name="accessibility_call_muted">Звук выключен.</string>
-    <string name="description_target_answer">Правильный вариант</string>
+    <string name="description_target_answer">Ответить</string>
     <string name="description_target_answer_video">Ответить с видео</string>
     <string name="description_target_answer_tx_video">Ответить с TX видео</string>
     <string name="description_target_answer_rx_video">Ответить с RX видео</string>
@@ -595,7 +592,7 @@
     <string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
     <string name="voicemail_notification_ringtone_title">Рингтон</string>
     <string name="default_notification_description">Звук по умолчанию (%1$s)</string>
-    <string name="voicemail_notification_vibrate_when_default">никогда</string>
+    <string name="voicemail_notification_vibrate_when_default">Никогда</string>
     <string name="ringtone_title">Рингтон</string>
     <string name="vibrate_on_ring_title">Вибросигнал и рингтон</string>
     <string name="dtmf_tone_enable_title">Звук клавиш</string>
@@ -626,7 +623,7 @@
     <string name="receive_data">0КБ</string>
     <string name="data_total_title">Всего</string>
     <string name="data_total_data">0КБ</string>
-    <string name="title_data_life_time">Время жизни счетчика</string>
+    <string name="title_data_life_time">За время</string>
     <string name="data_life_time_data">0КБ</string>
     <string name="data_timer_reset_title">Сброс</string>
     <string name="voice_call_reset_title">Сброс</string>
@@ -635,12 +632,12 @@
     <string name="swap_call">Поменять вызов</string>
     <string name="call_timer_clear_text">Очистить счетчик голосовых вызовов</string>
     <string name="turnover_silence">Перевернуть телефон для тихого режима</string>
-    <string name="sms_polite_decline">SMS вежливое снижение</string>
-    <string name="voice_polite_decline">Голосовое вежливое снижение</string>
+    <string name="sms_polite_decline">SMS вежливый отказ</string>
+    <string name="voice_polite_decline">Голосовой вежливый отказ</string>
     <string name="right_sliding_answer">Переместить вправо для ответа >&gt;</string>
-    <string name="dial_mute">Тихо</string>
+    <string name="dial_mute">Откл. звук</string>
     <string name="dial_speaker">Динамик</string>
-    <string name="dial_end">Поднять трубку</string>
+    <string name="dial_end">Отбой</string>
     <string name="return_incallscreen">Нажмите здесь, чтобы вернуться к вызову</string>
     <string name="call_prompts">Индикация при вызове</string>
     <string name="call_vibration">Вибрация при вызове</string>
@@ -652,7 +649,7 @@
     <string name="call_status_tone">Сигнал состояния вызова</string>
     <string name="call_link_tone">Тон вызова</string>
     <string name="minute_tone">Минутный сигнал</string>
-    <string name="minute_tone_text">Оповещение 55-ую секунду каждой минуты</string>
+    <string name="minute_tone_text">Оповещение в 55-ую секунду каждой минуты</string>
     <string name="call_end_tone">Звук окончания вызова</string>
     <string name="message_prompts">Подсказки сообщений</string>
     <string name="message_prompts_text">Открыть SMS и будильник во время вызова</string>
@@ -668,8 +665,8 @@
     <string name="labelCFCA">Отменить все переадресации</string>
     <string name="alert_title">Отменить все</string>
     <string name="alert_message">Вы действительно хотите отменить переадресацию всех вызовов?</string>
-    <string name="callWaitOn">ожидание вызова включено</string>
-    <string name="callWaitOff">ожидание вызова выключено</string>
+    <string name="callWaitOn">Ожидание вызова включено</string>
+    <string name="callWaitOff">Ожидание вызова выключено</string>
     <string name="cf_ok">ВКЛ.</string>
     <string name="cf_cancel">ВЫКЛ.</string>
     <string name="phoneNumber_not_null">Номер телефона не может быть пустым!</string>
@@ -697,7 +694,7 @@
     <string name="unicom">China Unicom</string>
     <string name="telecom">China Telecom</string>
     <string name="onscreenRecordText">Запись</string>
-    <string name="SoundRecordInCall">Запись разгоаора</string>
+    <string name="SoundRecordInCall">Запись разговора</string>
     <string name="TurnOnSoundRecorderText">Начать запись</string>
     <string name="TurnOffSoundRecorderText">Завершить запись</string>
     <string name="TurnOnSoundRecorderExceptionText">Исключение в звукозаписи</string>
@@ -729,7 +726,7 @@
     <string name="nubia_plmn_chinaMobile">China Mobile</string>
     <string name="nubia_plmn_chinaUnicom">China Unicom</string>
     <string name="nubia_plmn_chinaTelecom">China Telecom</string>
-    <string name="nubia_conference_call_title">Conference Call</string>
+    <string name="nubia_conference_call_title">Конференц-вызов</string>
     <string name="nubia_incoming_call">входящий...</string>
     <string name="nubia_respond_via_sms_title">Отклонить с СМС</string>
     <string name="nubia_respond_via_sms_canned_response_1">"Я ой как занят! Не могу говорить!"</string>
@@ -776,4 +773,6 @@
     <string name="nubia_storage_not_enough_stop_record">Отсутствие места для хранения, запись остановлена</string>
     <string name="nubia_change_to_sdcard_storage">Недостаточно места в памяти телефона, переключитесь на SD карту</string>
     <string name="nubia_respond_sms_disable">СМС при отклонении недоступны</string>
+    <string name="nubia_bluetooth_connected">Bluetooth connected</string>
+    <string name="nubia_voice_channel">Динамик</string>
 </resources>

@@ -24,7 +24,7 @@
     <string name="stroage_full_tip">Не удалось сохранить изображение, память может быть заполнена.</string>
     <string name="puzzle_template">Шаблон</string>
     <string name="puzzle_freedom">Свободно</string>
-    <string name="puzzle_join">Фотомонтаж</string>
+    <string name="puzzle_join">Монтаж</string>
     <string name="pintu_frame_list">Список кадров</string>
     <string name="pintu_change_bg">Выберите фон</string>
     <string name="pintu_change_frame">Выберите кадр</string>

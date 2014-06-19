@@ -78,8 +78,8 @@
     <string name="section_login_by_email_button">Логин</string>
     <string name="section_login_username">E-mail / Имя пользователя / Мобильный</string>
     <string name="section_login_password">Введите ваш пароль</string>
-    <string name="section_login_by_email_create_new_account">&lt;a href="#">Создать новую учетную запись&lt;/a></string>
-    <string name="section_login_by_email_forget_password">&lt;a href="#">Забыли пароль?&lt;/a></string>
+	<string name="section_login_by_email_create_new_account"><a href="#">Создать новую учетную запись</a></string>
+	<string name="section_login_by_email_forget_password"><a href="#">Забыли пароль?</a></string>
     <string name="section_login_by_email_username_error">Пожалуйста введите имя пользователя</string>
     <string name="section_login_by_email_email_error">Пожалуйста введите корректный email</string>
     <string name="section_login_by_email_password_error">Сожалеем, но пароль неверный!</string>
@@ -87,8 +87,8 @@
     <string name="section_login_by_mobile_button">Логин</string>
     <string name="section_login_by_mobile_number">Введите ваш мобильный</string>
     <string name="section_login_by_mobile_password">Введите ваш пароль</string>
-    <string name="section_login_by_mobile_create_new_account">&lt;a href="#">Создать новую учетную запись&lt;/a></string>
-    <string name="section_login_by_mobile_forget_password">&lt;a href="#">Забыли пароль?&lt;/a></string>
+	<string name="section_login_by_mobile_create_new_account"><a href="#">Создать новую учетную запись</a></string>
+    <string name="section_login_by_mobile_forget_password"><a href="#">Забыли пароль?</a></string>
     <string name="section_recovery_confirm_account">Пожалуйста подтвердите вашу учетную запись</string>
     <string name="reset_mobile_password_title">Сбросить пароль учетной записи</string>
     <string name="btn_finish">Завершить</string>

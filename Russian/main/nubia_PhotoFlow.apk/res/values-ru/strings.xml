@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Слайдшоу</string>
-    <string name="setting_name">Выбрать галерею показа</string>
+    <string name="setting_name">Выбрать галерею</string>
     <string name="no_image">"Нет фото"</string>
     <string name="show">Смотреть</string>
     <string name="anim_fade">Исчезание анимации</string>
